@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 09c63149a7b1e81f31d9a1c1bfd3c1c58fef2f87 DavidLevyCosta <davidlevycostabri_7@hotmail.com> 1711823220 -0300	commit (initial): first commit
+09c63149a7b1e81f31d9a1c1bfd3c1c58fef2f87 09c63149a7b1e81f31d9a1c1bfd3c1c58fef2f87 DavidLevyCosta <davidlevycostabri_7@hotmail.com> 1711823232 -0300	Branch: renamed refs/heads/master to refs/heads/main
+09c63149a7b1e81f31d9a1c1bfd3c1c58fef2f87 c6f7122819c4b5ce39edfbf585c8ac2bd4cadef6 DavidLevyCosta <davidlevycostabri_7@hotmail.com> 1711827163 -0300	commit: first nvim config
+c6f7122819c4b5ce39edfbf585c8ac2bd4cadef6 b6982d0b1a8a0c53c9ea7b579fa211cd098601a7 DavidLevyCosta <davidlevycostabri_7@hotmail.com> 1712001202 -0300	commit: working with tmux
