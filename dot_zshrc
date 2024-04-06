@@ -132,9 +132,9 @@ export PATH="/usr/lib/ccache/bin/:$PATH"
 # -----------------------------------------------------
 # DEVELOPMENT
 # -----------------------------------------------------
-alias dotsync="~/dotfiles-versions/dotfiles/.dev/sync.sh dotfiles"
-[[ -f ~/.zhshrc ]] && source ~/.zshrc
-source "$HOME/.cargo/env"
+# alias dotsync="~/dotfiles-versions/dotfiles/.dev/sync.sh dotfiles"
+# [[ -f ~/.zhshrc ]] && source ~/.zshrc
+# source "$HOME/.cargo/env"
 
 # Created by `pipx` on 2024-03-30 20:40:06
 export PATH="$PATH:/home/davidlevy/.local/bin"
