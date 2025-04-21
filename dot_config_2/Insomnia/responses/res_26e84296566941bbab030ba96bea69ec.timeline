@@ -1,0 +1,22 @@
+{"value":"Preparing request to http://localhost:8080/users","name":"Text","timestamp":1715983547938}
+{"value":"Current time is 2024-05-17T22:05:47.938Z","name":"Text","timestamp":1715983547938}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1715983547938}
+{"value":"Using default HTTP version","name":"Text","timestamp":1715983547945}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1715983547945}
+{"value":"Enable SSL validation","name":"Text","timestamp":1715983547945}
+{"name":"Text","value":"Found bundle for host localhost: 0x273005b80000 [serially]\n","timestamp":1715983547945}
+{"name":"Text","value":"Can not multiplex, even if we wanted to!\n","timestamp":1715983547945}
+{"name":"Text","value":"Re-using existing connection! (#43) with host localhost\n","timestamp":1715983547945}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#43)\n","timestamp":1715983547945}
+{"name":"HeaderOut","value":"POST /users HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/9.2.0\r\nAccept: */*\r\nContent-Length: 93\r\n\r\n","timestamp":1715983547945}
+{"name":"DataOut","value":"{\n\t\"nome\" : \"Roberto\",\n\t\"cpf\" : \"12125678\",\n\t\"email\" : \"Roberto@miojo.com\",\n\t\"saldo\" : 12.5\n}","timestamp":1715983547945}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"HTTP/1.1 500 \r\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"Date: Fri, 17 May 2024 22:05:48 GMT\r\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"Connection: close\r\n","timestamp":1715983548060}
+{"name":"HeaderIn","value":"\r\n","timestamp":1715983548060}
+{"name":"Text","value":"Received 112 B chunk","timestamp":1715983548060}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1715983548061}
+{"name":"Text","value":"Closing connection 43\n","timestamp":1715983548061}

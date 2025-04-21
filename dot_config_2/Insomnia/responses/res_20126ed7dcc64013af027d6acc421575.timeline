@@ -1,0 +1,14 @@
+{"value":"Preparing request to http://localhost:35729/RECYCL","name":"Text","timestamp":1715965527219}
+{"value":"Current time is 2024-05-17T17:05:27.219Z","name":"Text","timestamp":1715965527219}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1715965527219}
+{"value":"Using default HTTP version","name":"Text","timestamp":1715965527220}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1715965527220}
+{"value":"Enable SSL validation","name":"Text","timestamp":1715965527220}
+{"name":"Text","value":"Too old connection (160 seconds), disconnect it\n","timestamp":1715965527220}
+{"name":"Text","value":"Connection 2 seems to be dead!\n","timestamp":1715965527220}
+{"name":"Text","value":"Closing connection 2\n","timestamp":1715965527220}
+{"name":"Text","value":"  Trying 127.0.0.1:35729...\n","timestamp":1715965527220}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 35729 (#3)\n","timestamp":1715965527221}
+{"name":"HeaderOut","value":"GET /RECYCL HTTP/1.1\r\nHost: localhost:35729\r\nUser-Agent: insomnia/9.2.0\r\nAccept: */*\r\n\r\n","timestamp":1715965527221}
+{"name":"Text","value":"Empty reply from server\n","timestamp":1715965527224}
+{"name":"Text","value":"Closing connection 3\n","timestamp":1715965527224}

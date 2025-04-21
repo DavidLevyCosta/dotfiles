@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="76cc8066-d21c-4e4c-8583-1b3f22e90e8f" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="b8abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" scheme="_@user_Monokai Pro (Filter Ristretto)" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

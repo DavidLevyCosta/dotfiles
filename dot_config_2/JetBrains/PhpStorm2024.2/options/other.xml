@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ClassNameCompletion" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DBE.Default.Dialect": "",
+    "InstalledPluginsSearchHistory": "English\nEnglis\nEngl\nEng\nEn",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PS-242.21829.154",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-242.21829.154",
+    "PhpStorm.InitialConfiguration": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SettingsSearchHistory": "natural\nregion\nEnglish\nlanguage\ninspectio",
+    "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.4165342",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.242": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.21829.154",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Debug Validation": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/opt/lampp/htdocs/prova",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Ristretto)",
+    "registry.to.advanced.settings.migration.build": "PS-242.21829.154",
+    "ts.lib.d.ts.version": "5.4.3",
+    "whats.new.last.shown.version": "2024-2.1-21829-bb05b4618bbb3b5ffa4455e5a025212ff3a1db16"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/opt/lampp/htdocs/api",
+      "/opt/lampp/htdocs/prova"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

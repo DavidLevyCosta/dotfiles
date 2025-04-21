@@ -1,0 +1,23 @@
+{"value":"Preparing request to http://localhost:8080/users","name":"Text","timestamp":1715983346298}
+{"value":"Current time is 2024-05-17T22:02:26.298Z","name":"Text","timestamp":1715983346298}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1715983346298}
+{"value":"Using default HTTP version","name":"Text","timestamp":1715983346304}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1715983346304}
+{"value":"Enable SSL validation","name":"Text","timestamp":1715983346304}
+{"name":"Text","value":"Connection 40 seems to be dead!\n","timestamp":1715983346305}
+{"name":"Text","value":"Closing connection 40\n","timestamp":1715983346305}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1715983346305}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1715983346305}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#41)\n","timestamp":1715983346305}
+{"name":"HeaderOut","value":"POST /users HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/9.2.0\r\nAccept: */*\r\nContent-Length: 109\r\n\r\n","timestamp":1715983346305}
+{"name":"DataOut","value":"{\n\t\"USR_NOME\" : \"Roberto\",\n\t\"USR_CPF\" : \"12125678\",\n\t\"USR_EMAIL\" : \"Roberto@miojo.com\",\n\t\"USR_SALDO\" : 12.5\n}","timestamp":1715983346305}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"HTTP/1.1 201 \r\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"Location: /users/ID\r\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"Date: Fri, 17 May 2024 22:02:26 GMT\r\n","timestamp":1715983346390}
+{"name":"HeaderIn","value":"\r\n","timestamp":1715983346390}
+{"name":"Text","value":"Received 119 B chunk","timestamp":1715983346390}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1715983346391}
+{"name":"Text","value":"Connection #41 to host localhost left intact\n","timestamp":1715983346391}

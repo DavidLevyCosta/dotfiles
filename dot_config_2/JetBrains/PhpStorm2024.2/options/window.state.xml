@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="863" height="295" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="863" height="295" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="863" height="295" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="863" height="295" />
+  </component>
+  <component name="WindowManager">
+    <frame x="10" y="45" width="945" height="1025" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="315" width="424" height="454" key="FileChooserDialogImpl" timestamp="1726714239056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="315" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1726714239056" />
+  </component>
+</application>

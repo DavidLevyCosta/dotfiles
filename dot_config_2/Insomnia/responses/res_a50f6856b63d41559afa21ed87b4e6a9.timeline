@@ -1,0 +1,24 @@
+{"value":"Preparing request to http://localhost:8080/users/ID","name":"Text","timestamp":1715982223565}
+{"value":"Current time is 2024-05-17T21:43:43.565Z","name":"Text","timestamp":1715982223565}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1715982223565}
+{"value":"Using default HTTP version","name":"Text","timestamp":1715982223568}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1715982223568}
+{"value":"Enable SSL validation","name":"Text","timestamp":1715982223568}
+{"name":"Text","value":"Found bundle for host localhost: 0x273005b87640 [serially]\n","timestamp":1715982223569}
+{"name":"Text","value":"Can not multiplex, even if we wanted to!\n","timestamp":1715982223569}
+{"name":"Text","value":"Re-using existing connection! (#36) with host localhost\n","timestamp":1715982223569}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#36)\n","timestamp":1715982223569}
+{"name":"HeaderOut","value":"POST /users/ID HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/9.2.0\r\nAccept: */*\r\nContent-Length: 121\r\n\r\n","timestamp":1715982223569}
+{"name":"DataOut","value":"{\n\t\"nome\" : \"Frederico\",\n\t\"cpf\" : \"12345678\",\n\t\"email\" : \"Frederico@miojo.com\",\n\t\"saldo\" : 10.5,\n\t\"senha\" : \"124125124\"\n}","timestamp":1715982223569}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"HTTP/1.1 404 \r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Vary: Origin\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Method\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Headers\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"Date: Fri, 17 May 2024 21:43:43 GMT\r\n","timestamp":1715982223574}
+{"name":"HeaderIn","value":"\r\n","timestamp":1715982223574}
+{"name":"Text","value":"Received 103 B chunk","timestamp":1715982223574}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1715982223574}
+{"name":"Text","value":"Connection #36 to host localhost left intact\n","timestamp":1715982223574}

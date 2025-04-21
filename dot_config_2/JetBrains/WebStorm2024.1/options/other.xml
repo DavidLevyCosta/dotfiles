@@ -1,0 +1,59 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "p\nph\nphp\nmaven",
+    "JestJavaScriptTestRunnerSupport.hideIgnoredTests": "true",
+    "JestJavaScriptTestRunnerSupport.hidePassedTests": "false",
+    "JestJavaScriptTestRunnerSupport.scrollToSource": "true",
+    "JestJavaScriptTestRunnerSupport.selectFirtsDefect": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "php\nmaven\npret\nMaterial UI\nMaterial",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "RunOnceActivity.webstorm.code.vision.default.position.initialized": "true",
+    "SettingsSearchHistory": "maven\nprettie\nprettye\neslint",
+    "Text/home/davidlevy/WebstormProjects/react/src/components/Navbar.tsx.SplitterProportionKey": "0.70528686",
+    "TextLayout": "Editor and Preview",
+    "enter_selection_count": "5",
+    "evlsprt3.241": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.15989.105",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "js.live.template.contexts.migrated": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Ristretto)",
+    "promo.ignore.ultimate.edition": "true",
+    "registry.to.advanced.settings.migration.build": "WS-241.15989.105",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/davidlevy/Downloads/prova",
+      "/home/davidlevy/Downloads/prova/view.php",
+      "/home/davidlevy/projects/faculdade",
+      "/home/davidlevy/projects/React Spring/recycl"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

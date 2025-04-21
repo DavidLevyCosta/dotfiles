@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="9" l="1712688656434" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="7" l="1712688649018" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="26" l="1712688651770" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1712688633818" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1712688643388" />
+    </e>
+    <e n="RestoreDefaultSettings">
+      <i c="1" l="1712688778842" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1712688657962" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1712687984569" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="4" l="1712688662343" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1712687926732" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="2" d="1" l="1712688664020" k="1712687990652" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1712685956631" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1712688766615" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1712687976487" />
+    </e>
+  </component>
+</application>

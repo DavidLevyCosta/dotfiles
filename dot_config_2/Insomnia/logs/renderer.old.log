@@ -1,0 +1,252 @@
+[2024-05-17 12:00:33.968] [info]  [db] Initialized DB client
+[2024-05-17 12:00:33.976] [info]  [plugin] Loading 
+[2024-05-17 12:03:13.190] [info]  Login successful
+[2024-05-17 12:03:14.022] [info]  Fetching projects for team org_2042ac0d-6cb8-4047-adad-422b89c87c15
+[2024-05-17 12:03:14.214] [info]  [FileSystemDriver] Initialized in "/home/davidlevy/.config/Insomnia/version-control"
+[2024-05-17 12:04:39.177] [info]  Fetching projects for team org_2042ac0d-6cb8-4047-adad-422b89c87c15
+[2024-05-17 12:04:39.339] [info]  Redirecting to last visited project proj_0bda7d7af8f5496da8bbc5b405239284
+[2024-05-17 12:04:45.023] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:04:47.642] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:05.837] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:10.493] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:12.787] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:24.075] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:24.123] [warn]  Failed to load backend projects Error: Project is not a remote project
+    at q_ (file:///opt/insomnia/resources/app.asar/_virtual_external_clone-DJHzvbCS.js:2:33596)
+    at Lge (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:23124)
+    at async Module.Hge [as loader] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:24642)
+    at async file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4454
+    at async Ipu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4904)
+    at async Promise.all (index 5)
+    at async Kpu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:3552)
+    at async Bu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24241)
+    at async Promise.all (index 0)
+    at async Su (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24546)
+    at async S0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:19075)
+    at async i0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:17016)
+    at async Cu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24119)
+[2024-05-17 12:05:27.460] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:27.464] [error] Stacking order can only be calculated for elements with a common ancestor
+[2024-05-17 12:05:29.029] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:05:49.140] [info]  Fetching projects for team org_2042ac0d-6cb8-4047-adad-422b89c87c15
+[2024-05-17 12:05:49.301] [info]  Redirecting to last visited project proj_e6dfb2fc2aae43e786d84d83a0ac9ada
+[2024-05-17 12:05:49.328] [warn]  Failed to load backend projects Error: Project is not a remote project
+    at q_ (file:///opt/insomnia/resources/app.asar/_virtual_external_clone-DJHzvbCS.js:2:33596)
+    at Lge (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:23124)
+    at async Module.Hge [as loader] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:24642)
+    at async file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4454
+    at async Ipu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4904)
+    at async Promise.all (index 5)
+    at async Kpu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:3552)
+    at async Bu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24241)
+    at async Promise.all (index 0)
+    at async Su (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24546)
+    at async S0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:19075)
+    at async i0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:17016)
+    at async Cu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24119)
+    at async S0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:19333)
+    at async i0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:17016)
+    at async Object.$0 [as navigate] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:15602)
+[2024-05-17 12:06:23.170] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:06:23.171] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json.5afe99bf-5785-4440-b52b-66f6a7c12900.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:06:23.173] [info]  [sync] Created backend project prj_b8ee06cf992f4d399f6390dafb5a2bba
+[2024-05-17 12:06:23.173] [info]  [sync] Activated project prj_b8ee06cf992f4d399f6390dafb5a2bba
+[2024-05-17 12:06:23.173] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:06:23.173] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json.9ad18596-9ebd-4933-8817-ff86a42dac63.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:06:23.179] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/head.json
+[2024-05-17 12:06:23.180] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/head.json.8caa3353-c0a3-4b27-b7f7-944e84da97f6.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/head.json
+[2024-05-17 12:06:23.184] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json
+[2024-05-17 12:06:23.185] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json.057250c8-0ab9-49c7-89c0-a6744015a596.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json
+[2024-05-17 12:06:23.193] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/61/8e6326944bbbf01ab2e1d58196ee2421bee29c
+[2024-05-17 12:06:23.193] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/d0/96fda27171be2ba87f4623230c09ca25f46501
+[2024-05-17 12:06:23.193] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/43/2b55dc50d27e100165521edef5d510d8560d02
+[2024-05-17 12:06:23.194] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/61/8e6326944bbbf01ab2e1d58196ee2421bee29c.463449ee-98ac-4619-92c5-29f53acbcd2d.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/61/8e6326944bbbf01ab2e1d58196ee2421bee29c
+[2024-05-17 12:06:23.195] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/d0/96fda27171be2ba87f4623230c09ca25f46501.81310852-5f76-4192-8970-01762383d9b4.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/d0/96fda27171be2ba87f4623230c09ca25f46501
+[2024-05-17 12:06:23.195] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/43/2b55dc50d27e100165521edef5d510d8560d02.fab02619-4eee-40a7-8a1f-23d3ca0dc9e9.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/blobs/43/2b55dc50d27e100165521edef5d510d8560d02
+[2024-05-17 12:06:23.196] [info]  [sync] Staged my-spec.yaml, Base Environment, 
+[2024-05-17 12:06:23.199] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json
+[2024-05-17 12:06:23.200] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json.a6e79de1-5c2d-4a45-a46d-d71e2f0f77a5.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/branches/master.json
+[2024-05-17 12:06:23.201] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/snapshots/87742366283c30c00d6332e76d3201e05ed5e9e5.json
+[2024-05-17 12:06:23.202] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/snapshots/87742366283c30c00d6332e76d3201e05ed5e9e5.json.640ec050-ce3f-4798-b7f7-5c751def581c.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/snapshots/87742366283c30c00d6332e76d3201e05ed5e9e5.json
+[2024-05-17 12:06:23.203] [info]  [sync] Created commit 'Initial Snapshot' on master
+[2024-05-17 12:06:23.203] [info]  [sync] Created commit 87742366283c30c00d6332e76d3201e05ed5e9e5 (Initial Snapshot)
+[2024-05-17 12:06:23.537] [info]  [sync] Activated project prj_b8ee06cf992f4d399f6390dafb5a2bba
+[2024-05-17 12:06:23.537] [info]  [FileSystemDriver] Writing to /projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:06:23.538] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json.c7c9fa72-6b3c-42f0-a8ad-29857c6ced5a.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_b8ee06cf992f4d399f6390dafb5a2bba/meta.json
+[2024-05-17 12:07:34.638] [warn]  If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[2024-05-17 12:07:34.641] [warn]  If you do not provide a visible label, you must specify an aria-label or aria-labelledby attribute for accessibility
+[2024-05-17 12:07:34.642] [warn]  A `textValue` prop is required for <ListBoxItem> elements with non-plain text children in order to support accessibility features such as type to select.
+[2024-05-17 12:08:07.006] [warn]  Failed to load backend projects Error: Project is not a remote project
+    at q_ (file:///opt/insomnia/resources/app.asar/_virtual_external_clone-DJHzvbCS.js:2:33596)
+    at Lge (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:23124)
+    at async Module.Hge [as loader] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:24642)
+    at async file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4454
+    at async Ipu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4904)
+    at async Promise.all (index 5)
+    at async Kpu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:3552)
+    at async Bu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24241)
+    at async Promise.all (index 0)
+    at async Su (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24546)
+    at async S0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:19075)
+    at async i0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:17016)
+    at async Object.$0 [as navigate] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:15602)
+[2024-05-17 12:08:09.960] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:08:10.782] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:08:10.790] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:08:10.823] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:08:10.831] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:08:10.837] [warn]  Failed to load backend projects Error: Project is not a remote project
+    at q_ (file:///opt/insomnia/resources/app.asar/_virtual_external_clone-DJHzvbCS.js:2:33596)
+    at Lge (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:23124)
+    at async Module.Hge [as loader] (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:1468:24642)
+    at async file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4454
+    at async Ipu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:4904)
+    at async Promise.all (index 5)
+    at async Kpu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:56:3552)
+    at async Bu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24241)
+    at async Promise.all (index 0)
+    at async Su (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24546)
+    at async S0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:19075)
+    at async i0 (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:17016)
+    at async Cu (file:///opt/insomnia/resources/app.asar/mainWindow-zajGd_wC.js:55:24119)
+[2024-05-17 12:08:10.850] [warn]  If a Dialog does not contain a <Heading slot="title">, it must have an aria-label or aria-labelledby attribute for accessibility.
+[2024-05-17 12:09:37.040] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:37.040] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.f3ce423d-638c-4d45-a01d-9ad4ce8e6006.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:37.040] [info]  [sync] Created backend project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:09:37.040] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:09:37.040] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:37.041] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.c650cd3b-c61b-4b10-be6a-dea384ef7433.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:37.044] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/head.json
+[2024-05-17 12:09:37.045] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/head.json.a61491a5-2758-4ce8-87e9-3b9b846d30f3.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/head.json
+[2024-05-17 12:09:37.050] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json
+[2024-05-17 12:09:37.050] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json.fe5deb01-823f-483d-b097-47b78e7d37b7.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json
+[2024-05-17 12:09:37.056] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/8e/ce462a9ad6f611fc9c1af127fcefffb47ff4a7
+[2024-05-17 12:09:37.056] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/6c/d95545bc094c5f1c5ddd083b7a44393932975d
+[2024-05-17 12:09:37.057] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/8e/ce462a9ad6f611fc9c1af127fcefffb47ff4a7.fdc8f409-2dc3-43ad-af4d-910e69d83fac.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/8e/ce462a9ad6f611fc9c1af127fcefffb47ff4a7
+[2024-05-17 12:09:37.057] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/6c/d95545bc094c5f1c5ddd083b7a44393932975d.66232b6f-4ddb-4380-9baf-260bd3b5048e.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/blobs/6c/d95545bc094c5f1c5ddd083b7a44393932975d
+[2024-05-17 12:09:37.057] [info]  [sync] Staged My Collection, Base Environment
+[2024-05-17 12:09:37.059] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json
+[2024-05-17 12:09:37.060] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json.84ba2a46-7f27-4b29-9413-961b02304498.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/branches/master.json
+[2024-05-17 12:09:37.061] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/snapshots/d6ad7147df6f6038b1ef0fa987e79e70feba3835.json
+[2024-05-17 12:09:37.062] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/snapshots/d6ad7147df6f6038b1ef0fa987e79e70feba3835.json.fc75185a-935b-499b-82c4-a8dea21461cb.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/snapshots/d6ad7147df6f6038b1ef0fa987e79e70feba3835.json
+[2024-05-17 12:09:37.064] [info]  [sync] Created commit 'Initial Snapshot' on master
+[2024-05-17 12:09:37.064] [info]  [sync] Created commit d6ad7147df6f6038b1ef0fa987e79e70feba3835 (Initial Snapshot)
+[2024-05-17 12:09:37.141] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:09:37.142] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:37.142] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.721f2280-4e63-4b34-9f03-8073101d75d0.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:44.902] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:09:44.902] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:09:44.903] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.d970dab1-59d2-436b-9219-c8d58691756b.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.095] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:00.095] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.095] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.8201df07-3f03-4097-8fa8-56c9aae2a30d.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.207] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:00.208] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.208] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.2af0e144-db96-4ff5-92f2-01e9487e97ed.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.432] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:00.433] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.433] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.d4d4130e-b34a-4f7c-9717-ab23bd1f9f2c.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.435] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:00.435] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.435] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.528df015-b71c-401f-8d73-a7220b598c94.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.514] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:00.514] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:00.515] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.4ff0562c-e100-4799-8505-da6d009ff67b.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.404] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:01.404] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.405] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.93ebef15-45a3-4585-9e0e-877de19cf7d9.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.553] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:01.553] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.554] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.bddd2fac-7e1b-49b0-81cd-c2e76e9161a8.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.650] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:01.650] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:01.650] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.406b51ed-1bdf-4f6f-85b9-83da78159897.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:07.309] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:07.309] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:07.310] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.8b93596a-4e66-4bbc-9984-4ab82ed8b104.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:31.103] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:31.103] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:31.103] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.5eb80b1c-b11c-424d-9b86-f32938a62232.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:31.240] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:31.241] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:31.241] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.b7f9b2fc-ba63-484e-9572-8f03bc3a395d.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:32.940] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:32.940] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:32.941] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.b2aeed56-1d67-417d-bf49-acf54e9aaca7.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:33.049] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:33.049] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:33.049] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.b04dcb36-b5ae-437b-afda-c17be9fce87c.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:36.921] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:36.921] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:36.922] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.9de14571-9870-4499-b689-e3a8a744496f.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:38.339] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:38.339] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:38.339] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.45a7af01-55d9-4a22-a19c-ae50d6aec57c.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:38.746] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:38.746] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:38.746] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.a4406e47-b5c8-4238-8efd-82625463d6c4.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:39.928] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:39.928] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:39.929] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.966ee7f4-e482-408a-b9e5-58dfe07687b5.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:40.070] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:40.070] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:40.070] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.3c24ccc2-fab0-4067-8591-4a48e9ff886e.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:40.237] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:40.237] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:40.238] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.151683d3-2f15-4171-8bb4-8d40ea0a72bd.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:41.686] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:41.686] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:41.686] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.3bb8b446-eebe-4db8-a419-d2a9c2494f67.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:42.020] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:42.021] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:42.021] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.426894ef-865c-478e-b622-9a66f70c72a9.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:49.114] [info]  [network] Response failed req=req_aa5e6b9866764ecb84298b602cecd9da err=Error: Failed sending data to the peer
+[2024-05-17 12:10:49.155] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:49.155] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:49.155] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.eaae66e1-dbb1-4d88-b470-40351703d5bd.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.280] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:55.280] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.281] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.b0f3a0d8-8cce-43c4-9b84-e7afdce402ca.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.428] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:55.428] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.428] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.b4a9430e-2547-495b-92ea-f0f069c0d083.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.546] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:55.546] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.546] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.a107a0cf-ab68-490c-8797-0dfba75ec9a6.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.724] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:55.724] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.724] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.caf80f77-934f-47de-ac9f-f045e9201096.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.872] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:55.872] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:55.873] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.c78a46bb-2ffa-492b-be7d-5d350427343f.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.015] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:56.015] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.016] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.6d623df4-2c2e-46be-9f9f-11ff3fecdaad.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.353] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:56.354] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.354] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.db972a69-e6b1-4e81-99aa-fac1aa580f0e.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.706] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:56.706] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.706] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.8629c3a4-d605-4914-9188-af04009f25de.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.884] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:56.884] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.885] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.ab5fbff1-6b42-433e-b365-c05b974239fe.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.998] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:56.998] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:56.999] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.a639a09d-c645-4668-998d-a0c4b3d99189.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:57.140] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:57.140] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:57.140] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.4d5c7821-f10d-4384-a147-215493ba3725.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:58.463] [info]  [network] Response failed req=req_aa5e6b9866764ecb84298b602cecd9da err=Error: Failed sending data to the peer
+[2024-05-17 12:10:58.500] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:10:58.500] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:10:58.501] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.48fc84bd-f37f-499b-981e-ee27025d5721.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:08.651] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:11:08.652] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:08.652] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.212e65f3-0553-458d-8375-7c1b2b5c24bc.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:10.629] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:11:10.630] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:10.630] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.21e6a138-8087-4750-8191-b07a53e09e66.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:11.478] [info]  [sync] Activated project prj_0a0c3ed8f5bb4087aa74ef2eee21eec9
+[2024-05-17 12:11:11.478] [info]  [FileSystemDriver] Writing to /projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json
+[2024-05-17 12:11:11.479] [info]  [FileSystemDriver] Writing to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json.8d413ed0-5c46-4e1e-985a-ba4dba2f6e0a.tmp then renaming to /home/davidlevy/.config/Insomnia/version-control/projects/prj_0a0c3ed8f5bb4087aa74ef2eee21eec9/meta.json

@@ -1,0 +1,39 @@
+2024-05-18 17:09:54.180 [info] Log level: Info
+2024-05-18 17:09:54.180 [info] Validating found git in: "git"
+2024-05-18 17:09:54.180 [info] Using git "2.45.1" from "git"
+2024-05-18 17:09:54.180 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-18 17:09:54.180 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-05-18 17:09:54.180 [info] Open repository: /home/davidlevy/projects/faculdade/recycle-react
+2024-05-18 17:09:54.180 [info] > git config --get commit.template [6ms]
+2024-05-18 17:09:54.183 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-18 17:09:54.183 [info] fatal: this operation must be run in a work tree
+2024-05-18 17:09:54.198 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-18 17:09:54.198 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-05-18 17:09:54.214 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/faculdade/recycle-react/.git/refs/remotes/origin/main'
+2024-05-18 17:09:54.215 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-18 17:09:54.227 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-18 17:09:54.228 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2024-05-18 17:09:54.238 [info] > git status -z -uall [4ms]
+2024-05-18 17:09:54.286 [info] > git merge-base refs/heads/main refs/remotes/origin/main [38ms]
+2024-05-18 17:09:54.298 [info] > git config --get commit.template [13ms]
+2024-05-18 17:09:54.301 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-05-18 17:09:54.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-18 17:09:54.314 [info] > git diff --name-status -z --diff-filter=ADMR 9fa9ea73991174a0175b98eaf708bdb625d768b6...refs/remotes/origin/main [8ms]
+2024-05-18 17:09:54.320 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/faculdade/recycle-react/.git/refs/remotes/origin/main'
+2024-05-18 17:09:54.322 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-18 17:09:54.330 [info] > git status -z -uall [4ms]
+2024-05-18 17:09:55.068 [info] > git check-ignore -v -z --stdin [39ms]
+2024-05-18 17:09:55.777 [info] > git show --textconv :.git/COMMIT_EDITMSG [16ms]
+2024-05-18 17:09:55.777 [info] > git ls-files --stage -- /home/davidlevy/projects/faculdade/recycle-react/.git/COMMIT_EDITMSG [7ms]
+2024-05-18 17:11:46.653 [info] > git config --get commit.template [2ms]
+2024-05-18 17:11:46.665 [info] > git ls-files --stage -- /home/davidlevy/projects/faculdade/recycle-react/.git/COMMIT_EDITMSG [6ms]
+2024-05-18 17:11:46.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-05-18 17:11:46.673 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/faculdade/recycle-react/.git/refs/remotes/origin/main'
+2024-05-18 17:11:46.674 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-05-18 17:11:46.680 [info] > git status -z -uall [2ms]
+2024-05-18 17:11:46.693 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2024-05-18 17:11:48.738 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-05-18 17:11:48.743 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-05-18 17:11:49.387 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-18 17:11:54.003 [info] > git ls-files --stage -- /home/davidlevy/projects/faculdade/recycle-react/.git/COMMIT_EDITMSG [2ms]
+2024-05-18 17:11:54.010 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]

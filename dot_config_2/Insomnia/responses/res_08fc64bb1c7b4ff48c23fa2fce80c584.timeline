@@ -1,0 +1,27 @@
+{"value":"Preparing request to http://localhost:8080/users","name":"Text","timestamp":1716057169458}
+{"value":"Current time is 2024-05-18T18:32:49.458Z","name":"Text","timestamp":1716057169458}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1716057169458}
+{"value":"Using default HTTP version","name":"Text","timestamp":1716057169459}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1716057169459}
+{"value":"Enable SSL validation","name":"Text","timestamp":1716057169459}
+{"name":"Text","value":"Too old connection (3085 seconds), disconnect it\n","timestamp":1716057169460}
+{"name":"Text","value":"Connection 53 seems to be dead!\n","timestamp":1716057169460}
+{"name":"Text","value":"Closing connection 53\n","timestamp":1716057169460}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1716057169460}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1716057169460}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 8080 (#54)\n","timestamp":1716057169460}
+{"name":"HeaderOut","value":"POST /users HTTP/1.1\r\nHost: localhost:8080\r\nContent-Type: application/json\r\nUser-Agent: insomnia/9.2.0\r\nAccept: */*\r\nContent-Length: 74\r\n\r\n","timestamp":1716057169460}
+{"name":"DataOut","value":"{\n\t\"nome\" : \"LUCAS\",\n\t\"cpf\" : \"151253638\",\n\t\"email\" : \"LUCAS@miojo.com\",\n}","timestamp":1716057169460}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"HTTP/1.1 400 \r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Vary: Origin\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Method\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Vary: Access-Control-Request-Headers\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Content-Type: application/json\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Transfer-Encoding: chunked\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Date: Sat, 18 May 2024 18:32:49 GMT\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"Connection: close\r\n","timestamp":1716057169614}
+{"name":"HeaderIn","value":"\r\n","timestamp":1716057169614}
+{"name":"Text","value":"Received 102 B chunk","timestamp":1716057169614}
+{"name":"Text","value":"Received 5 B chunk","timestamp":1716057169616}
+{"name":"Text","value":"Closing connection 54\n","timestamp":1716057169616}

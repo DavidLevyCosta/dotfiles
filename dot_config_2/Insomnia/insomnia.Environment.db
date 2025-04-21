@@ -1,0 +1,3 @@
+{"_id":"env_f137f8db5b785d98ca4e72916e02db0038e81e94","type":"Environment","parentId":"wrk_08f3176db2de43bc94ad896b262b9125","modified":1715958577034,"created":1715958577034,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1715958577034}
+{"$$deleted":true,"_id":"env_f137f8db5b785d98ca4e72916e02db0038e81e94"}
+{"_id":"env_a5edebc648bbdbd24efd0ce1027feca374782bcb","type":"Environment","parentId":"wrk_cfb738a4f5d148f5afbce22e03242ff2","modified":1715965177041,"created":1715965177041,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1715965177041}

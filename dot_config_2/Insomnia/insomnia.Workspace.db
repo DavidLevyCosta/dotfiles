@@ -1,0 +1,4 @@
+{"_id":"wrk_08f3176db2de43bc94ad896b262b9125","type":"Workspace","parentId":"proj_e6dfb2fc2aae43e786d84d83a0ac9ada","modified":1715958577032,"created":1715958577032,"name":"My Collection","description":"","scope":"collection"}
+{"_id":"wrk_scratchpad","type":"Workspace","parentId":"proj_scratchpad","modified":1715958033097,"created":1715958033097,"name":"Scratch Pad","description":"","scope":"collection"}
+{"$$deleted":true,"_id":"wrk_08f3176db2de43bc94ad896b262b9125"}
+{"_id":"wrk_cfb738a4f5d148f5afbce22e03242ff2","type":"Workspace","parentId":"proj_e6dfb2fc2aae43e786d84d83a0ac9ada","modified":1715965177035,"created":1715965177035,"name":"CRUD","description":"","scope":"collection"}

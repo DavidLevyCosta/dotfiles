@@ -1,0 +1,96 @@
+/* Variáveis CSS para cores e espaçamentos */
+@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+:root {
+    --main-bg-color: #fbfada;
+    --header-color: #12372a;
+    --link-color: #fbfada;
+    --nav-item-spacing: 55px;
+    --entry-links-spacing: 20px;
+}
+
+body {
+    background-color: var(--main-bg-color) !important; /* Cor de fundo para todo o corpo do documento */
+}
+
+.navbar {
+    padding: 10px 40px !important; /* Ajusta o padding uniformemente */
+    font-size: 16px;
+}
+
+.navbar-brand {
+    font-family: "K2D", sans-serif;
+    font-weight: 700;
+    font-style: normal;/* ou qualquer outra fonte que você prefira */
+    font-size: 24px !important;
+    color: var(--link-color);
+}
+
+.navbar-nav {
+    margin-right: 10px; /* Aumenta a margem no lado direito dos links à esquerda */
+}
+
+.navbar-nav .nav-item {
+    margin-right: var(--nav-item-spacing); /* Aplica o espaçamento padrão para todos os itens, exceto o último */
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-right: 0; /* Remove margem do último item para alinhamento correto */
+}
+
+.navbar-nav .nav-item:first-child {
+    margin-left: var(--entry-links-spacing); /* Espaçamento para o primeiro link de navegação */
+}
+
+.navbar-nav .nav-item:nth-last-child(2) {
+    margin-right: var(--entry-links-spacing); /* Ajusta o espaçamento entre Entrar e Cadastre-se */
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    background-color: var(--main-bg-color);
+    color: var(--header-color);
+}
+
+.navbar-nav .nav-link {
+    color: #fbfada !important; /* Cor dos links */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: inherit;
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: #e6e6e6; /* Cor dos links ao passar o mouse ou focar */
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: var(--header-color); /* Cor do link ativo */
+    background-color: var(--main-bg-color); /* Fundo do link ativo */
+}
+
+/* Ajustando o CSS no arquivo Header.css para dispositivos móveis */
+@media (max-width: 991px) {
+    .navbar-nav {
+        flex-direction: column !important; /* Força a direção dos itens para coluna */
+    }
+
+    .navbar-nav .nav-link {
+        padding: 10px;  /* Ajuste no padding para maior acessibilidade */
+        display: block;  /* Garante que cada link seja tratado como um bloco */
+        width: 100%;  /* Ocupa toda a largura disponível */
+    }
+
+    /* Garantir que não há margens extras afetando o alinhamento */
+    .navbar-nav .nav-item {
+        width: 100%; /* Ocupa toda a largura disponível */
+        margin: 0 !important; /* Remove qualquer margem que possa estar sendo aplicada */
+    }
+}
+
+
+
+
+
+/* Estilos adicionais podem ser colocados aqui */

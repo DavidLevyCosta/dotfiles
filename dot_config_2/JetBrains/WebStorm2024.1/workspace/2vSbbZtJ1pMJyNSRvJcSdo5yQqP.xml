@@ -1,0 +1,163 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="346z3wg3vqm4b" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/landing-page/landing-page.component.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 3,
+      "lastUsed": 1744300683304
+    },
+    "HTML": {
+      "usageCount": 3,
+      "lastUsed": 1744300684508
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/app/landing-page/landing-page.component.html" />
+      <option value="$PROJECT_DIR$/src/app/app.routes.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="3" lastUsage="1744300684508" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="3" lastUsage="1744300683308" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/WebstormProjects/untitled1/src/app/landing-page}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12549000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33589607" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33614695" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.33614695" left="0.33589607" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1800" height="296" key="GridCell.Tab.0.bottom" timestamp="1744167851179">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1800" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1744167851179" />
+    <state width="1800" height="296" key="GridCell.Tab.0.center" timestamp="1744167851178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1800" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1744167851178" />
+    <state width="1800" height="296" key="GridCell.Tab.0.left" timestamp="1744167851178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1800" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1744167851178" />
+    <state width="1800" height="296" key="GridCell.Tab.0.right" timestamp="1744167851178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1800" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1744167851178" />
+    <state x="831" y="451" width="348" height="298" key="org.angular.cli.generate" timestamp="1744145246147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="831" y="451" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1080@0.0.1920.1080" timestamp="1744145246147" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/landing-page/landing-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

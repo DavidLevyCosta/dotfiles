@@ -1,0 +1,110 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="&lt;anonymous-group-10&gt;" />
+      <option value="io.flutter.OpenDevToolsAction" />
+      <option value="Help.KeymapReference" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 22.0.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-22.0.1" />
+        <option name="sha256" value="133c8b65113304904cdef7c9103274d141cfb64b191ff48ceb6528aca25c67b1" />
+        <option name="url" value="https://download.java.net/java/GA/jdk22.0.1/c7ec1332f7bb44aeba2eb341ae18aca4/8/GPL/openjdk-22.0.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="22.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.38192904",
+    "DART_LAST_SDK_CHECK_KEY": "1715099865212",
+    "DART_PROJECT_TEMPLATE": "CREATE_SAMPLE_UNCHECKED",
+    "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1715607795364",
+    "InstalledPluginsSearchHistory": "m\nma\nmar\nmari\nmaria",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-241.15989.150",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-241.15989.150",
+    "MarketplacePluginsSearchHistory": "flutter\ndart\ndar\nsubtheme\nsub",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SettingsSearchHistory": "sdk\nproject",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.241": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.15989.150",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "2",
+    "filter_non_existing": "true",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "241.15989.150-IJ",
+    "io.flutter.analytics.clientId": "85d8c50d-e6a7-416b-b653-083eb1ec32ff",
+    "io.flutter.analytics.optOut": "true",
+    "io.flutter.analytics.toastShown": "true",
+    "io.flutter.console.preferencesSet": "true",
+    "jdk.selected.JAVA_MODULE": "22",
+    "last_opened_file_path": "/home/davidlevy/projects/faculdade/recycl",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Ristretto)",
+    "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
+    "registry.to.advanced.settings.migration.build": "IU-241.15989.150",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "DART_SDK_KNOWN_PATHS": [
+      "/opt/dart-sdk"
+    ],
+    "FLUTTER_SDK_KNOWN_PATHS": [
+      "/home/davidlevy/development/flutter"
+    ],
+    "file.chooser.recent.files": [
+      "/home/davidlevy/projects/faculdade/recycl",
+      "/home/davidlevy/projects/recycl 2",
+      "/home/davidlevy/projects/React Spring/recycl",
+      "/home/davidlevy/.android-sdk",
+      "/home/davidlevy/.cache/yay/android-sdk",
+      "/home/davidlevy/.cache/yay/android-platform-29",
+      "/opt/dart-sdk"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

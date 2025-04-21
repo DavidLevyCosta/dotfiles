@@ -1,0 +1,24 @@
+[2024-05-17 12:00:32.811] [info]  Running version 9.2.0
+[2024-05-17 12:00:32.834] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-05-17 12:00:32.854] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-05-17 12:00:32.892] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-05-17 12:00:33.035] [info]  [fix] Running database repairs
+[2024-05-17 12:00:33.090] [info]  [db] Initialized DB at /home/davidlevy/.config/Insomnia/insomnia.$TYPE.db
+[2024-05-17 12:00:33.090] [info]  [db] Init responses DB
+[2024-05-17 12:00:33.091] [info]  [db] Init websocket-responses DB
+[2024-05-17 12:00:33.095] [info]  Initializing Scratch Pad Project
+[2024-05-17 12:00:33.096] [info]  Initializing Scratch Pad
+[2024-05-17 12:00:33.097] [info]  [localstorage] Initialized at /home/davidlevy/.config/Insomnia/localStorage
+[2024-05-17 12:00:33.151] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-05-17 12:00:33.166] [info]  [main] Registering the hidden window restarting handler
+[2024-05-17 12:00:33.167] [info]  [updater] Not supported on this platform linux
+[2024-05-17 12:00:33.174] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2024-05-17 12:00:33.174] [error] TypeError: Cannot destructure property 'accountId' of '(intermediate value)' as it is undefined.
+    at trackSegmentEvent (/opt/insomnia/resources/app.asar/main.min.js:36622:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-05-17 12:00:34.554] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-05-17 12:00:34.556] [info]  [main] Check args and create windows []
+[2024-05-17 12:00:34.556] [info]  [main] Checking for newer version than  9.2.0
+[2024-05-17 12:00:35.131] [info]  [main] Found newer version
+[2024-05-17 12:00:35.134] [info]  Exported backup to: /home/davidlevy/.config/Insomnia/backups/9.2.0

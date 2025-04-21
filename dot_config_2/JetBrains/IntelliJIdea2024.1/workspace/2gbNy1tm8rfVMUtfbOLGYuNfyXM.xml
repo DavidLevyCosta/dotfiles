@@ -1,0 +1,180 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="recycl" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="29izfcub7isgn">
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="254">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.application.recycl.RecyclApplicationTests.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1715962842666
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1715962732316
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1715962842666" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1715962732318" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="recycl" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="recycl" type="20da4fc8:ProjectNode" />
+          <item name="Lifecycle" type="d32bdb1e:LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl/target}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl/target}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycl/target/surefire-reports}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="378000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1423648" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Layout Inspector" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.32987142" />
+      <window_info anchor="bottom" id="App Inspection" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.16304347" />
+      <window_info anchor="right" id="Device Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="4" />
+      <window_info anchor="right" id="Flutter Deep Links" order="4" />
+      <window_info anchor="right" id="Running Devices" order="4" side_tool="true" />
+      <unified_weights bottom="0.32987142" left="0.1423648" right="0.16304347" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="291" key="GridCell.Tab.0.bottom" timestamp="1715962948447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1804" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1715962948447" />
+    <state width="1804" height="291" key="GridCell.Tab.0.center" timestamp="1715962948447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1804" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1715962948447" />
+    <state width="1804" height="291" key="GridCell.Tab.0.left" timestamp="1715962948447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1804" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1715962948447" />
+    <state width="1804" height="291" key="GridCell.Tab.0.right" timestamp="1715962948447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1804" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1715962948447" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.application.recycl.RecyclApplicationTests.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

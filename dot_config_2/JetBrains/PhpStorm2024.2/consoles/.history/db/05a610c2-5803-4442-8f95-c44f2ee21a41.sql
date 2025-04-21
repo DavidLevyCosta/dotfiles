@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON conta_corrente.* TO 'davidlevy'@'localhost';

@@ -1,0 +1,4 @@
+2024-05-18 17:02:35.620 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 25ms.
+2024-05-18 17:02:35.748 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 24ms.
+2024-05-18 17:02:37.403 [info] Started local extension host with pid 91405.
+2024-05-18 17:02:43.563 [info] [perf] Render performance baseline is 445ms

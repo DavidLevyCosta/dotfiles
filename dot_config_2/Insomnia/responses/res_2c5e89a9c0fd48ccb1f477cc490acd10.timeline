@@ -1,0 +1,16 @@
+{"value":"Preparing request to http://localhost:8080/user","name":"Text","timestamp":1715967388830}
+{"value":"Current time is 2024-05-17T17:36:28.830Z","name":"Text","timestamp":1715967388830}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1715967388830}
+{"value":"Using default HTTP version","name":"Text","timestamp":1715967388840}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1715967388840}
+{"value":"Enable SSL validation","name":"Text","timestamp":1715967388840}
+{"name":"Text","value":"Too old connection (185 seconds), disconnect it\n","timestamp":1715967388840}
+{"name":"Text","value":"Connection 10 seems to be dead!\n","timestamp":1715967388840}
+{"name":"Text","value":"Closing connection 10\n","timestamp":1715967388840}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1715967388841}
+{"name":"Text","value":"  Trying 127.0.0.1:8080...\n","timestamp":1715967388841}
+{"name":"Text","value":"connect to 127.0.0.1 port 8080 failed: Conexão recusada\n","timestamp":1715967388841}
+{"name":"Text","value":"  Trying ::1:8080...\n","timestamp":1715967388841}
+{"name":"Text","value":"connect to ::1 port 8080 failed: Conexão recusada\n","timestamp":1715967388841}
+{"name":"Text","value":"Failed to connect to localhost port 8080 after 0 ms: Conexão recusada\n","timestamp":1715967388841}
+{"name":"Text","value":"Closing connection 11\n","timestamp":1715967388841}

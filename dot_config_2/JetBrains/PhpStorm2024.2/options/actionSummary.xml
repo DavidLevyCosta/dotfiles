@@ -1,0 +1,223 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1726776201207" />
+    </e>
+    <e n="$Redo">
+      <i c="38" l="1726781176762" />
+    </e>
+    <e n="$SelectAll">
+      <i c="23" l="1729805045662" />
+    </e>
+    <e n="$Undo">
+      <i c="330" l="1729805068218" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1726778319396" />
+    </e>
+    <e n="ClassNameCompletion">
+      <i c="1" d="1" l="1729804627005" k="1729804627005" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="17" l="1729804724884" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="24" l="1726779358021" />
+    </e>
+    <e n="Console.Jdbc.Execute">
+      <i c="2" l="1726776974701" />
+    </e>
+    <e n="Console.TableResult.Reload">
+      <i c="5" l="1726781103623" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1726776940312" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="1" l="1726776994338" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="596" l="1729804921467" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="53" l="1729804935979" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="8" l="1729804582606" />
+    </e>
+    <e n="EditorCopy">
+      <i c="46" l="1726781521613" />
+    </e>
+    <e n="EditorCut">
+      <i c="43" l="1729804958387" />
+    </e>
+    <e n="EditorDown">
+      <i c="203" l="1729804903116" />
+    </e>
+    <e n="EditorEnter">
+      <i c="182" l="1729804932355" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="18" l="1726780838631" />
+    </e>
+    <e n="EditorLeft">
+      <i c="290" l="1729804898684" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="51" l="1729804862700" />
+    </e>
+    <e n="EditorPaste">
+      <i c="111" l="1729805045908" />
+    </e>
+    <e n="EditorRight">
+      <i c="479" l="1729804854877" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="97" l="1729804393692" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1726773518160" />
+    </e>
+    <e n="EditorTab">
+      <i c="51" l="1729804761326" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="13" l="1726779234759" />
+    </e>
+    <e n="EditorUp">
+      <i c="114" l="1729804931909" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="7" l="1726781640100" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="1" l="1726778665857" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1726720291999" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="45" l="1729804783582" />
+    </e>
+    <e n="InsertInlineCompletionWordAction">
+      <i c="64" l="1726780848120" />
+    </e>
+    <e n="Jdbc.OpenConsole.New.Generate">
+      <i c="1" l="1726776941826" />
+    </e>
+    <e n="NewDir">
+      <i c="5" l="1726774451242" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1729803457172" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1726774916710" />
+    </e>
+    <e n="NewHtmlFile">
+      <i c="1" l="1726774310116" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1729803883779" />
+    </e>
+    <e n="PhpListenDebugAction">
+      <i c="1" l="1729803743764" />
+    </e>
+    <e n="PhpNewClass">
+      <i c="1" l="1726774465723" />
+    </e>
+    <e n="PhpNewFile">
+      <i c="5" l="1729803489242" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="4" l="1729803832965" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1726718801190" />
+    </e>
+    <e n="RenameElement">
+      <i c="8" l="1726777705964" />
+    </e>
+    <e n="Run">
+      <i c="7" l="1729803831403" />
+    </e>
+    <e n="SaveAll">
+      <i c="103" l="1729805069194" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1729804629583" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="12" l="1729804614665" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="6" l="1729804920943" />
+    </e>
+    <e n="ShowSettings">
+      <i c="9" l="1726719458606" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1726774344782" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1726714226408" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1726719451752" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1726717935056" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1726717931299" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1726714146237" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.settingChooser.SettingChooserItemAction">
+      <i c="1" l="1726714151238" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1729803631971" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1726719472188" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1726721275217" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1726718041691" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1726777033305" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1726714977540" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1726714246858" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1729803881187" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1726719599333" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$DownButton">
+      <i c="1" l="1729803635606" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1726776977069" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="1" l="1726776976534" />
+    </e>
+    <e n="com.intellij.util.ui.tree.PerFileConfigurableBase$9">
+      <i c="2" l="1726772888916" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1729803833879" />
+    </e>
+  </component>
+</application>

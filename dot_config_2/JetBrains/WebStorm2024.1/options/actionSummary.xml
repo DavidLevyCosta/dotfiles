@@ -1,0 +1,184 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="4" l="1715804936315" />
+    </e>
+    <e n="$Redo">
+      <i c="7" l="1715802979984" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1715805127417" />
+    </e>
+    <e n="$Undo">
+      <i c="73" l="1744145305129" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1744145307394" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="16" l="1744145291087" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="250" l="1744145300225" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="19" l="1715993197179" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1715993086514" />
+    </e>
+    <e n="EditorCut">
+      <i c="5" l="1715993222438" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1715802932009" />
+    </e>
+    <e n="EditorDown">
+      <i c="86" l="1744145306239" />
+    </e>
+    <e n="EditorEnter">
+      <i c="38" l="1744145318821" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="6" l="1726682725538" />
+    </e>
+    <e n="EditorLeft">
+      <i c="128" l="1744145318427" />
+    </e>
+    <e n="EditorPaste">
+      <i c="10" l="1715993296731" />
+    </e>
+    <e n="EditorRight">
+      <i c="42" l="1744145299465" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="6" l="1715796913219" />
+    </e>
+    <e n="EditorTab">
+      <i c="14" l="1726682685577" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="27" l="1726682707950" />
+    </e>
+    <e n="EditorUp">
+      <i c="55" l="1744145299126" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1744145296278" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="7" l="1715805102481" />
+    </e>
+    <e n="MethodDown">
+      <i c="1" l="1715796911299" />
+    </e>
+    <e n="MethodUp">
+      <i c="1" l="1715796910861" />
+    </e>
+    <e n="NewDir">
+      <i c="3" l="1715804683410" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1744141457454" />
+    </e>
+    <e n="NewStylesheetFile">
+      <i c="2" l="1715804695851" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1726682344914" />
+    </e>
+    <e n="ProjectFromVersionControl">
+      <i c="1" l="1715992719348" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="6" l="1715993605614" />
+    </e>
+    <e n="Run">
+      <i c="10" l="1715993668053" />
+    </e>
+    <e n="SaveAll">
+      <i c="30" l="1744167848978" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="4" l="1715881613188" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="8" l="1726682238729" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1726682234673" />
+    </e>
+    <e n="Stop">
+      <i c="6" l="1715993558912" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="5" l="1726682239536" />
+    </e>
+    <e n="angularCliGenerate">
+      <i c="1" l="1744145234914" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1715796166352" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1715993563658" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1715793575292" />
+    </e>
+    <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
+      <i c="3" l="1744145271695" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1715992885725" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1715993304159" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="8" l="1715805165140" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="5" l="1715881652976" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="3" l="1744221230654" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="14" l="1715993620099" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1715992714650" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1715793843308" />
+    </e>
+    <e n="com.intellij.reactbuddy.CreateReactComponent">
+      <i c="2" l="1715795556345" />
+    </e>
+    <e n="com.intellij.reactbuddy.action.ExpandAllAction">
+      <i c="1" l="1715802459925" />
+    </e>
+    <e n="com.intellij.reactbuddy.editor.ChangePreviewModeAction">
+      <i c="3" l="1715796374105" />
+    </e>
+    <e n="com.intellij.reactbuddy.palette.PreviewModeAction">
+      <i c="2" l="1715802491484" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1715804736426" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="74" l="1715881651465" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="36" l="1715881652097" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1715993607517" />
+    </e>
+    <e n="org.jetbrains.completion.full.line.platform.inline.shortcut.ChangeShortcutAction">
+      <i c="1" l="1715796523713" />
+    </e>
+  </component>
+</application>

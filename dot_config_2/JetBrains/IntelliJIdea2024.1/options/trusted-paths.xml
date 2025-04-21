@@ -1,0 +1,24 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/curso" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/recicl" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/recursione" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/recycl" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/recycle" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/test" value="true" />
+        <entry key="$USER_HOME$/projects/React Spring/recycl" value="true" />
+        <entry key="$USER_HOME$/projects/faculdade/recycl" value="true" />
+        <entry key="$USER_HOME$/projects/recycl 2" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/projects" />
+      </list>
+    </option>
+  </component>
+</application>

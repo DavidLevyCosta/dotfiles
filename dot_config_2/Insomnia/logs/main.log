@@ -1,0 +1,110 @@
+[2024-05-17 13:59:18.545] [info]  Running version 9.2.0
+[2024-05-17 13:59:18.567] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-05-17 13:59:18.586] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-05-17 13:59:18.625] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-05-17 13:59:18.794] [info]  [fix] Running database repairs
+[2024-05-17 13:59:18.865] [info]  [db] Initialized DB at /home/davidlevy/.config/Insomnia/insomnia.$TYPE.db
+[2024-05-17 13:59:18.866] [info]  [db] Init responses DB
+[2024-05-17 13:59:18.866] [info]  [db] Init websocket-responses DB
+[2024-05-17 13:59:18.869] [info]  [localstorage] Initialized at /home/davidlevy/.config/Insomnia/localStorage
+[2024-05-17 13:59:18.929] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-05-17 13:59:18.947] [info]  [main] Registering the hidden window restarting handler
+[2024-05-17 13:59:18.948] [info]  [updater] Not supported on this platform linux
+[2024-05-17 13:59:21.684] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-05-17 13:59:21.687] [info]  [main] Check args and create windows []
+[2024-05-17 13:59:21.688] [info]  [main] Checking for newer version than  9.2.0
+[2024-05-17 13:59:21.858] [info]  [main] Found newer version
+[2024-05-17 13:59:21.864] [info]  Backup found at: /home/davidlevy/.config/Insomnia/backups/9.2.0
+[2024-05-17 13:59:30.384] [info]  [response] Delete body 
+[2024-05-17 13:59:30.384] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_60a2c077d9c14eadb14ad1abfbccb6cd.timeline
+[2024-05-17 13:59:30.384] [info]  [response] Delete body 
+[2024-05-17 13:59:30.385] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_be36a2253dff46bab16d90c6c1f69da5.timeline
+[2024-05-17 14:38:24.860] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/d4b67d9d-29ff-4fa1-b16b-cb452cc64cb1.response
+[2024-05-17 14:38:24.860] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_d27f60b5db064a68b2136c57b80591c5.timeline
+[2024-05-17 14:38:25.975] [info]  [db] Delete hook failed for remove res_a4ccd57f0a594528af8f579df6f58505: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 14:38:26.654] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/f7ff3c84-2c1e-4cbd-8071-9f9def4fc612.response
+[2024-05-17 14:38:26.654] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_791a7b9c900b49d1b64b9c2f7cc65b49.timeline
+[2024-05-17 14:38:37.306] [info]  [db] Delete hook failed for remove res_20126ed7dcc64013af027d6acc421575: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 14:38:38.581] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/a56f0763-1dbb-4f9b-91ee-956e7f398765.response
+[2024-05-17 14:38:38.581] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_c256e402c54b480e8b62547a0eb334ac.timeline
+[2024-05-17 14:44:15.196] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/39feeefe-351c-467c-87b1-3d8a6d2dcf22.response
+[2024-05-17 14:44:15.197] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_4cd5ace3a66842fc8367cf24632ba474.timeline
+[2024-05-17 14:44:46.731] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/37735694-37be-467c-98d1-b7af2c5f0d39.response
+[2024-05-17 14:44:46.731] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_227c036917eb4a7da92e1201d16f5bfa.timeline
+[2024-05-17 14:44:48.422] [info]  [db] Delete hook failed for remove res_0b61c691fa7e41cc8ee2d66d9860cceb: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 14:44:50.607] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/8032d451-db0e-4efd-89f3-445276e0a633.response
+[2024-05-17 14:44:50.607] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_aad38119f0934e6bb3a71966fa4b3cb6.timeline
+[2024-05-17 14:47:39.845] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/5fa87635-636e-4c82-a1a3-12b1854ca8ca.response
+[2024-05-17 14:47:39.845] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_4e2359a242e2437fba97e6ee22808a3f.timeline
+[2024-05-17 15:21:07.840] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/c9cce4ae-2557-483f-9eb0-e61e88065c25.response
+[2024-05-17 15:21:07.840] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_e8426fe7d1da47caa60ae8c612d87f0c.timeline
+[2024-05-17 17:46:53.986] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_dcc881b9c97e4a4a950ded635ce83dea.timeline
+[2024-05-17 17:46:53.986] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/01d8f1e5-3a7c-400c-89f4-b648d106f55e.response
+[2024-05-17 17:59:58.890] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/e0965bd3-3639-47c4-b287-47867d630924.response
+[2024-05-17 17:59:58.890] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_198fe94772f545978cf37303901b9c72.timeline
+[2024-05-17 18:00:22.373] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/32077e3e-1ca6-4db8-a977-c9ae7d02ad95.response
+[2024-05-17 18:00:22.373] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_ecae29793d8542caa774d79ed7f1a8e0.timeline
+[2024-05-17 18:05:18.603] [info]  [db] Delete hook failed for remove res_2c5e89a9c0fd48ccb1f477cc490acd10: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 18:12:35.597] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/57f487fc-3d89-4bb5-b363-4e6612992f1a.response
+[2024-05-17 18:12:35.597] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_3d2673bc76444b46bd72b221db2061ff.timeline
+[2024-05-17 18:21:31.743] [info]  [db] Delete hook failed for remove res_f58eade71eec44e2a2afd57d1ae7ba7d: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 18:21:32.940] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/783fc6fe-4d4f-45bd-8249-02a349e9d325.response
+[2024-05-17 18:21:32.940] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_ab6cf3e132914e9083599b1ea5e35376.timeline
+[2024-05-17 18:21:41.588] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/22b4f1f9-15af-40b1-b167-616ebfa8b5bb.response
+[2024-05-17 18:21:41.589] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_0f887abb636d430a96c58f70696d4cfe.timeline
+[2024-05-17 18:27:40.237] [info]  [db] Delete hook failed for remove res_605aee71399c49ec8aeb238db21a2261: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 18:31:00.779] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/67f7e406-56a0-4133-9946-5f0148b98b7e.response
+[2024-05-17 18:31:00.780] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_f91824b015ff47469f17c9d9f30dc2b8.timeline
+[2024-05-17 18:31:10.815] [info]  [db] Delete hook failed for remove res_f5ce569327c54a16bc83a12077f4fa7a: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 18:40:42.873] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/36ec4d57-f247-4ca8-871d-527399f761d0.response
+[2024-05-17 18:40:42.873] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_42d7f3f487f44922849ac164b282c62f.timeline
+[2024-05-17 18:43:28.005] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/c8ff2906-0a0d-446c-965f-a5c267b7630b.response
+[2024-05-17 18:43:28.005] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_732162f5ba784739bed24ce8bfb7a8cd.timeline
+[2024-05-17 18:43:46.558] [info]  [db] Delete hook failed for remove res_f7daf1a959ee4e7aa40069c1c011f3e8: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2024-05-17 18:43:56.142] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/6602beb0-bd95-48ec-aa7b-0af4b50be0ac.response
+[2024-05-17 18:43:56.143] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_a2765e3fe2294ae8a484871ae7c1abaf.timeline
+[2024-05-17 18:46:35.002] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_70b0b97916b248cda12be289d92aa751.timeline
+[2024-05-17 18:46:35.002] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/84a9a545-a57e-4d34-86ca-857a7e057074.response
+[2024-05-17 18:46:36.692] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_52ae636fdffb4dafa2714b47fea265dc.timeline
+[2024-05-17 18:46:36.692] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/ef47d9d4-70df-4268-8eb2-8e93df2cd7d2.response
+[2024-05-17 18:47:09.117] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/017a5a01-a9e7-438e-bccd-fd3baecb8465.response
+[2024-05-17 18:47:09.118] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_3e9ccff43d634aa58ec46e4c68c1bc9e.timeline
+[2024-05-17 18:48:45.061] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/abb12e12-a552-4562-a5dd-d68be8ce7749.response
+[2024-05-17 18:48:45.062] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_42f465bb973e4f81981e8c4e230df577.timeline
+[2024-05-17 18:58:15.711] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/6cb436e6-8f04-488a-b98a-ac44f9532495.response
+[2024-05-17 18:58:15.711] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_362547ce1f2f4733a7ddd96c22e13997.timeline
+[2024-05-17 18:59:15.111] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/3e71f205-5add-416b-af63-6cf2cda72a31.response
+[2024-05-17 18:59:15.111] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_b34844ca4c0b479a9da266fff75033f4.timeline
+[2024-05-17 19:00:59.268] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/24643b03-d3e8-4f25-854b-c07fe53e33bb.response
+[2024-05-17 19:00:59.268] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_7c4eafffe480466abb8f00203402c2c6.timeline
+[2024-05-17 19:01:00.230] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/2027adc2-75ef-481e-9041-0ebbc3578792.response
+[2024-05-17 19:01:00.230] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_22ed862737634b63ab55a7d4e79d54e9.timeline
+[2024-05-17 19:04:06.382] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/4e724971-4360-4e53-b1b4-d2dd1d986fa0.response
+[2024-05-17 19:04:06.383] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_7638130db21a490ba45113fe61886936.timeline
+[2024-05-17 19:05:28.396] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/b309fc79-4b18-493f-9c25-e675046f5122.response
+[2024-05-17 19:05:28.397] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_3a3b21e8d61840a4b4a9b21a83c08f16.timeline
+[2024-05-17 19:05:53.859] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/980f1088-9e0a-477e-a505-121f7671e235.response
+[2024-05-17 19:05:53.859] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_61cc067305ea46e08c1c52d32348894c.timeline
+[2024-05-17 19:07:57.639] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/98f0b815-425c-46fd-87be-9cc906e0ad4e.response
+[2024-05-17 19:07:57.639] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_9a730d81c40540639e71067f89730fa2.timeline
+[2024-05-17 19:18:21.687] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/9ffc5df5-608b-49d0-b913-6b4cbc7cb1c2.response
+[2024-05-17 19:18:21.687] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_33f31c4af59e431c9490ab0424c3d003.timeline
+[2024-05-17 19:24:08.842] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/c391a2b3-feb2-4ee9-9fa0-042a11024858.response
+[2024-05-17 19:24:08.843] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_afd3f2ca301f45beb1a3bbddbede04d3.timeline
+[2024-05-17 19:27:56.140] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/0664578d-deb4-4c04-915c-e8c644932043.response
+[2024-05-17 19:27:56.144] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_6b027b62fbe04cd7ab4d1f793e1b420d.timeline
+[2024-05-17 19:39:15.894] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/9a354179-8c5e-4b85-93cb-19598aef3ab6.response
+[2024-05-17 19:39:15.894] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_ab23afe302f34ce691881471a0c7a991.timeline
+[2024-05-17 20:09:13.990] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/d711e099-625e-46f6-9b27-082d499e383e.response
+[2024-05-17 20:09:13.990] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_55c98f567c5c4d46a00e7d827d573faf.timeline
+[2024-05-17 20:09:24.077] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/0ab71c36-e4f8-4f2b-9a9a-2afc6f337a54.response
+[2024-05-17 20:09:24.078] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_1f33d686ad11422dadcd2f1feeaa90c9.timeline
+[2024-05-17 20:10:13.682] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/48c42cf3-3c8e-4c3a-9c2e-0f9737101a80.response
+[2024-05-17 20:10:13.682] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_e29d1e1344074108bed950a5356d3d22.timeline
+[2024-05-18 11:32:49.474] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/49c083e8-e6e0-425f-bef4-c0a6d4382fcc.response
+[2024-05-18 11:32:49.476] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_c0565fe8cb8e458bb5a7453682ecb24a.timeline
+[2024-05-18 14:41:24.243] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/c502ae20-94c3-43d0-91d9-1e20c9c4347c.response
+[2024-05-18 14:41:24.247] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_624e8fdedadf4e63af39afbc12fd2d9d.timeline
+[2024-05-18 15:32:49.637] [info]  [response] Delete body /home/davidlevy/.config/Insomnia/responses/c5f39a31-600a-47eb-9cbf-0e7a67d53a98.response
+[2024-05-18 15:32:49.639] [info]  [response] Delete timeline /home/davidlevy/.config/Insomnia/responses/res_8c8c5c362d9d44ae94911e9f8062a2ad.timeline

@@ -1,0 +1,327 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PythonProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="ChatSessionStateTemp">
+    <option name="chats">
+      <list>
+        <SerializedChat>
+          <option name="chatContext">
+            <SerializedChatContext />
+          </option>
+          <option name="messages">
+            <list>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/notebooks/data-analysis.ipynb" />
+                      <option name="name" value="Information about open file in the editor" />
+                      <option name="text" value="```jupyter&#10;contents:&#10;&#10;#%%&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=141a5250-0be4-45f1-a149-0e7d0d938144)" />
+                <option name="displayContent" value="how i import pandas on notebook?" />
+                <option name="internalContent" value="how i import pandas on notebook?" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=d8bab2ed-60db-4efc-be8a-a07b1651762e)" />
+                <option name="displayContent" value="To import `pandas` in a Jupyter Notebook, you simply need to use the following line of code in a code cell:&#10;&#10;```python&#10;import pandas as pd&#10;```&#10;&#10;Here:&#10;&#10;- `pandas` is the library being imported.&#10;- `pd` is the alias commonly used to simplify code (optional but highly recommended).&#10;&#10;Would you like a new cell added to your notebook with this import statement?" />
+                <option name="internalContent" value="To import `pandas` in a Jupyter Notebook, you simply need to use the following line of code in a code cell:&#10;&#10;```python&#10;import pandas as pd&#10;```&#10;&#10;Here:&#10;&#10;- `pandas` is the library being imported.&#10;- `pd` is the alias commonly used to simplify code (optional but highly recommended).&#10;&#10;Would you like a new cell added to your notebook with this import statement?" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=0c2e71b1-37ac-466d-a77f-d75994e3dfde)" />
+                <option name="displayContent" value="install odfpy" />
+                <option name="internalContent" value="install odfpy" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=c7bb6356-ba1c-45b0-934e-4d2738dcbf48)" />
+                <option name="displayContent" value="To install the `odfpy` library in your environment, follow these steps:&#10;&#10;1. Open a code cell in your Jupyter Notebook.&#10;2. Use the following command to install `odfpy`:&#10;&#10;```python&#10;!pip install odfpy&#10;```&#10;&#10;The exclamation mark (`!`) is used to indicate a shell command inside a Jupyter Notebook.&#10;&#10;Would you like me to add this installation code to your notebook in a new cell?" />
+                <option name="internalContent" value="To install the `odfpy` library in your environment, follow these steps:&#10;&#10;1. Open a code cell in your Jupyter Notebook.&#10;2. Use the following command to install `odfpy`:&#10;&#10;```python&#10;!pip install odfpy&#10;```&#10;&#10;The exclamation mark (`!`) is used to indicate a shell command inside a Jupyter Notebook.&#10;&#10;Would you like me to add this installation code to your notebook in a new cell?" />
+              </SerializedChatMessage>
+            </list>
+          </option>
+          <option name="modifiedAt" value="1744760793731" />
+          <option name="statisticInformation">
+            <ChatStatisticInformation>
+              <option name="sourceActionType" value="NEW_CHAT_ON_START" />
+              <option name="timestamp" value="1744760793731" />
+            </ChatStatisticInformation>
+          </option>
+          <option name="title">
+            <SerializedChatTitle>
+              <option name="custom" value="true" />
+              <option name="text" value="Importing Pandas in Jupyter Notebook" />
+            </SerializedChatTitle>
+          </option>
+          <option name="uid" value="77da1ce9-1b0a-4d74-b886-1d747295c971" />
+        </SerializedChat>
+        <SerializedChat>
+          <option name="chatContext">
+            <SerializedChatContext />
+          </option>
+          <option name="messages">
+            <list>
+              <SerializedChatMessage>
+                <option name="uid" value="UUID(uuid=d523f595-d762-4a5a-a551-707874b4edac)" />
+                <option name="displayContent" value="Find potential problems in &#10;```jupyter&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;```&#10;" />
+                <option name="internalContent" value="Find potential problems in &#10;```jupyter&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;```&#10;" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="author" value="Assistant" />
+                <option name="uid" value="UUID(uuid=d1f1cffe-c2af-4786-854a-495e97eb33dc)" />
+                <option name="displayContent" value="Here are some potential issues in the provided code:&#10;&#10;1. **Column Name Formatting:**  &#10;   The column names `'Área de Avaliação'` and `'Nº  de Concluintes Participantes'` may cause issues if there are leading/trailing spaces, unexpected extra spaces, special character encodings, or discrepancies in the actual column names of the dataframe. Double-check that these column names match exactly with the dataframe's structure.&#10;&#10;2. **Font Support for Special Characters:**  &#10;   Titles and labels contain special characters like `'Área'`, `'Nº'`, etc. The default font used by `matplotlib` may not support these characters properly. If characters appear distorted or are replaced with placeholders, you may need to explicitly set a font that supports special characters.&#10;   ```python&#10;   plt.rcParams['font.family'] = 'Arial'  # Example of setting a compatible font&#10;   ```&#10;&#10;3. **Data Integrity:**  &#10;   - Ensure that the column `'Área de Avaliação'` contains categorical or string data suited for the `'x'` axis.&#10;   - Ensure that the column `'Nº  de Concluintes Participantes'` contains numeric data suited for the `'y'` axis. If the data contains non-numeric types (e.g., strings like `&quot;unknown&quot;` or NaN values), `matplotlib` may raise an error or produce incorrect plots.&#10;&#10;4. **Large Data or Overlapping Labels:**  &#10;   - If `'Área de Avaliação'` contains too many unique categories, the x-axis labels may overlap or become cluttered even after rotating them by 90 degrees. You might want to group or limit the number of categories displayed to make the plot more readable.&#10;     ```python&#10;     data = data.head(10)  # Example: Plot only the first 10 data points&#10;     ```&#10;&#10;5. **Legend Argument Usage:**  &#10;   The parameter `legend=False` is valid for pandas' `plot` method in this case, but note that it will hide any legend regardless of whether it's needed. If multiple series are plotted in the future, this may lead to confusion.&#10;&#10;6. **Missing Libraries:**  &#10;   The code snippet implies the use of pandas and matplotlib. Ensure that both libraries are imported properly:&#10;   ```python&#10;   import pandas as pd&#10;   import matplotlib.pyplot as plt&#10;   ```&#10;&#10;7. **Figure Size Adjustment:**  &#10;   While `figsize=(15, 5)` is explicitly set, make sure the aspect ratio suits your data. A very wide figure might waste space or not improve readability for narrow sets of labels.&#10;&#10;8. **Command Order:**  &#10;   If the `plt.show()` command is accidentally omitted, the plot won't render in non-interactive environments (e.g., some Jupyter Notebook configurations). But in most Jupyter environments, due to inline plotting, this should still work.&#10;&#10;### Debugging Suggestions:&#10;- **Validate Dataframe Columns:** Check the column names to ensure there are no typos or extra spaces. You can print the column names like this:&#10;   ```python&#10;   print(data.columns)&#10;   ```&#10;- **Check for NaN Values:** Ensure your `'y'` column does not contain NaN values:&#10;   ```python&#10;   print(data['Nº  de Concluintes Participantes'].isna().sum())&#10;   # Optionally drop NaN values&#10;   data = data.dropna(subset=['Nº  de Concluintes Participantes'])&#10;   ```&#10;- **Inspect Data Types:**&#10;   ```python&#10;   print(data.dtypes)&#10;   ```&#10;&#10;By addressing these points, you can ensure a robust and well-functioning plot. Let me know if you'd like code adjustments!" />
+                <option name="internalContent" value="Here are some potential issues in the provided code:&#10;&#10;1. **Column Name Formatting:**  &#10;   The column names `'Área de Avaliação'` and `'Nº  de Concluintes Participantes'` may cause issues if there are leading/trailing spaces, unexpected extra spaces, special character encodings, or discrepancies in the actual column names of the dataframe. Double-check that these column names match exactly with the dataframe's structure.&#10;&#10;2. **Font Support for Special Characters:**  &#10;   Titles and labels contain special characters like `'Área'`, `'Nº'`, etc. The default font used by `matplotlib` may not support these characters properly. If characters appear distorted or are replaced with placeholders, you may need to explicitly set a font that supports special characters.&#10;   ```python&#10;   plt.rcParams['font.family'] = 'Arial'  # Example of setting a compatible font&#10;   ```&#10;&#10;3. **Data Integrity:**  &#10;   - Ensure that the column `'Área de Avaliação'` contains categorical or string data suited for the `'x'` axis.&#10;   - Ensure that the column `'Nº  de Concluintes Participantes'` contains numeric data suited for the `'y'` axis. If the data contains non-numeric types (e.g., strings like `&quot;unknown&quot;` or NaN values), `matplotlib` may raise an error or produce incorrect plots.&#10;&#10;4. **Large Data or Overlapping Labels:**  &#10;   - If `'Área de Avaliação'` contains too many unique categories, the x-axis labels may overlap or become cluttered even after rotating them by 90 degrees. You might want to group or limit the number of categories displayed to make the plot more readable.&#10;     ```python&#10;     data = data.head(10)  # Example: Plot only the first 10 data points&#10;     ```&#10;&#10;5. **Legend Argument Usage:**  &#10;   The parameter `legend=False` is valid for pandas' `plot` method in this case, but note that it will hide any legend regardless of whether it's needed. If multiple series are plotted in the future, this may lead to confusion.&#10;&#10;6. **Missing Libraries:**  &#10;   The code snippet implies the use of pandas and matplotlib. Ensure that both libraries are imported properly:&#10;   ```python&#10;   import pandas as pd&#10;   import matplotlib.pyplot as plt&#10;   ```&#10;&#10;7. **Figure Size Adjustment:**  &#10;   While `figsize=(15, 5)` is explicitly set, make sure the aspect ratio suits your data. A very wide figure might waste space or not improve readability for narrow sets of labels.&#10;&#10;8. **Command Order:**  &#10;   If the `plt.show()` command is accidentally omitted, the plot won't render in non-interactive environments (e.g., some Jupyter Notebook configurations). But in most Jupyter environments, due to inline plotting, this should still work.&#10;&#10;### Debugging Suggestions:&#10;- **Validate Dataframe Columns:** Check the column names to ensure there are no typos or extra spaces. You can print the column names like this:&#10;   ```python&#10;   print(data.columns)&#10;   ```&#10;- **Check for NaN Values:** Ensure your `'y'` column does not contain NaN values:&#10;   ```python&#10;   print(data['Nº  de Concluintes Participantes'].isna().sum())&#10;   # Optionally drop NaN values&#10;   data = data.dropna(subset=['Nº  de Concluintes Participantes'])&#10;   ```&#10;- **Inspect Data Types:**&#10;   ```python&#10;   print(data.dtypes)&#10;   ```&#10;&#10;By addressing these points, you can ensure a robust and well-functioning plot. Let me know if you'd like code adjustments!" />
+              </SerializedChatMessage>
+              <SerializedChatMessage>
+                <option name="attachments">
+                  <list>
+                    <SerializedChatAttachment>
+                      <option name="url" value="file://$PROJECT_DIR$/notebooks/data-analysis.ipynb" />
+                      <option name="name" value="Information about open file in the editor" />
+                      <option name="text" value="```jupyter&#10;contents:&#10;&#10;#%%&#10;!pip install odfpy&#10;#%%&#10;import pandas as pd&#10;import numbers as np&#10;import matplotlib.pyplot as plt&#10;&#10;data = pd.read_excel(&quot;/home/davidlevy/Downloads/conceito_enade_2023.ods&quot;)&#10;data&#10;#%%&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;#%%&#10;&#10;```" />
+                    </SerializedChatAttachment>
+                    <SerializedChatAttachment>
+                      <option name="name" value="Selection" />
+                      <option name="text" value="```&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;```" />
+                    </SerializedChatAttachment>
+                  </list>
+                </option>
+                <option name="markupLanguageID" value="ChatInput" />
+                <option name="uid" value="UUID(uuid=490d4489-147d-414a-a274-49fe18579d0a)" />
+                <option name="displayContent" value="```jupyter&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;```&#10;&#10;there is too much items for this, the labels are pilling up" />
+                <option name="internalContent" value="```jupyter&#10;data.plot(kind='bar', x='Área de Avaliação', y='Nº  de Concluintes Participantes', figsize=(15, 5), legend=False)&#10;plt.ylabel('Nº de Concluintes Participantes')&#10;plt.title('Nº de Concluintes Participantes por Área de Avaliação')&#10;plt.xticks(rotation=90)&#10;plt.show()&#10;```&#10;&#10;there is too much items for this, the labels are pilling up" />
+              </SerializedChatMessage>
+            </list>
+          </option>
+          <option name="modifiedAt" value="1744762342347" />
+          <option name="statisticInformation">
+            <ChatStatisticInformation>
+              <option name="sourceActionType" value="FIND_PROBLEMS_INTENTION" />
+            </ChatStatisticInformation>
+          </option>
+          <option name="title">
+            <SerializedChatTitle>
+              <option name="custom" value="true" />
+              <option name="text" value="Identifying Issues in Jupyter Plot Code" />
+            </SerializedChatTitle>
+          </option>
+          <option name="uid" value="e14c523f-ffab-40f4-9230-6929857dedc9" />
+        </SerializedChat>
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="39qzzjswf5q96">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebooks/data-analysis.ipynb">
+          <provider editor-type-id="jupyter-editor" selected="true">
+            <state relative-caret-position="81">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#9#28#0#JupyterPython" expanded="true" />
+              </folding>
+              <jupyter>
+                <cells>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                  <cell>
+                    <outputs scrollingEnabled="true" />
+                  </cell>
+                </cells>
+              </jupyter>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"data-analysis.ipynb","foregroundColor":-7042421,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-75,1,10,61,105,99,111,110,115,47,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,121,116,104,111,110,46,106,117,112,121,116,101,114,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,82,117,110,110,105,110,103,46,115,118,103,18,67,105,99,111,110,115,47,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,121,116,104,111,110,46,106,117,112,121,116,101,114,47,101,120,112,117,105,47,106,117,112,121,116,101,114,78,111,116,101,98,111,111,107,82,117,110,110,105,110,103,46,115,118,103,26,16,105,110,116,101,108,108,105,106,46,106,117,112,121,116,101,114,34,21,105,110,116,101,108,108,105,106,46,106,117,112,121,116,101,114,46,99,111,114,101,40,-79,-123,-98,-93,2,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Jupyter": {
+      "usageCount": 1,
+      "lastUsed": 1744760195459
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/davidlevy/PycharmProjects/PythonProject/notebooks/data-analysis.ipynb"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a361329f-6cc2-40b6-9fac-91bd7dc511df" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="1" lastUsage="1744760195462" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject/notebooks}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="PythonProject" />
+            <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="PythonProject" />
+              <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/notebooks" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="notebooks" />
+                <item name="dir{file:///home/davidlevy/PycharmProjects/PythonProject/notebooks}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/notebooks/data-analysis.ipynb" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.jupyter.core" iconPath="icons/com.jetbrains.python.jupyter/expui/jupyterNotebookRunning.svg" iconPlugin="intellij.jupyter" isLeaf="true" text="data-analysis.ipynb" />
+                  <item name="data-analysis.ipynb" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4584000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22826087" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.22826087" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Jupyter" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" visible="true" weight="0.28499472" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights left="0.22826087" right="0.28499472" />
+    </layoutV2>
+    <recentWindows>
+      <value>AIAssistant</value>
+      <value>Project</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="958" height="467" key="DebuggerActiveHint" timestamp="1744762130311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="958" height="467" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1744762130311" />
+    <state x="1411" y="830" width="471" height="192" key="ProcessPopupWindow" timestamp="1744760909365">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1411" y="830" width="471" height="192" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1744760909365" />
+    <state x="469" y="207" key="SettingsEditor" timestamp="1744742402257">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1744742402257" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/notebooks/data-analysis.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor">
+        <state relative-caret-position="81">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#9#28#0#JupyterPython" expanded="true" />
+          </folding>
+          <jupyter>
+            <cells>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+            </cells>
+          </jupyter>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

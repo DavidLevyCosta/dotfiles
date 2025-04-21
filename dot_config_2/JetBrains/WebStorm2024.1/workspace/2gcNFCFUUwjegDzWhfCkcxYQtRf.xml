@@ -1,0 +1,237 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="recycle-react" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="346z3wg3vqm4b" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header.js">
+          <provider editor-type-id="react_designer" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/HomePage.js">
+          <provider editor-type-id="react_designer" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider editor-type-id="react_designer" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider editor-type-id="react_designer" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/Downloads/prova/view.php">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider editor-type-id="react_designer" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JavaScript": {
+      "usageCount": 21,
+      "lastUsed": 1726682315983
+    },
+    "JSON": {
+      "usageCount": 4,
+      "lastUsed": 1726682315702
+    },
+    "Markdown": {
+      "usageCount": 4,
+      "lastUsed": 1726682314343
+    },
+    "textmate": {
+      "usageCount": 2,
+      "lastUsed": 1726682313648
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/App.test.js" />
+      <option value="$PROJECT_DIR$/src/components/HomePage.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1726682315702" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="21" lastUsage="1726682315983" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="4" lastUsage="1726682314343" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1726682313652" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ReactAppPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="recycle-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycle-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/faculdade/recycle-react/src/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="App_test_js - 2024.05.17 at 21h 44m 20s.xml">
+      <configuration name="App.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_test_js - 2024.05.17 at 21h 46m 47s.xml">
+      <configuration name="App.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="App_test_js - 2024.05.17 at 21h 48m 34s.xml">
+      <configuration name="App.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15827148" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32987142" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="com.intellij.reactbuddy.storybook" order="5" side_tool="true" />
+      <window_info anchor="right" id="com.intellij.reactbuddy.reactComponents" order="6" weight="0.33006364" />
+      <window_info anchor="right" id="com.intellij.reactbuddy.reactInspector" order="7" side_tool="true" weight="0.33006364" />
+      <unified_weights bottom="0.32987142" left="0.15827148" right="0.33006364" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>com.intellij.reactbuddy.reactInspector</value>
+      <value>com.intellij.reactbuddy.reactComponents</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="315" width="424" height="454" key="FileChooserDialogImpl" timestamp="1726682212402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="315" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1726682212402" />
+    <state x="469" y="207" key="SettingsEditor" timestamp="1726682304514">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1726682304514" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
+      <provider selected="true" editor-type-id="react_designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/HomePage.js">
+      <provider selected="true" editor-type-id="react_designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="react_designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="react_designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="react_designer" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/prova/view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

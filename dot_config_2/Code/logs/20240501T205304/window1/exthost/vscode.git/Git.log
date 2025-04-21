@@ -1,0 +1,127 @@
+2024-05-01 20:53:06.799 [info] Log level: Info
+2024-05-01 20:53:06.799 [info] Validating found git in: "git"
+2024-05-01 20:53:06.799 [info] Using git "2.45.0" from "git"
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.799 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-01 20:53:06.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.805 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:06.805 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.812 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:06.812 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.819 [info] > git rev-parse --show-toplevel [0ms]
+2024-05-01 20:53:06.819 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.825 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:06.825 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.834 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:06.834 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.843 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-01 20:53:06.843 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:06.854 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:06.854 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:08.081 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:08.081 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:08.140 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:08.140 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:08.391 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:08.391 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:09.051 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:09.051 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:17.355 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:17.355 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:19.324 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:19.324 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:25.524 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:25.524 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:27.092 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:27.092 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:33.349 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:33.349 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:34.822 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:53:34.823 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:37.332 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-01 20:53:37.332 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:53:38.826 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-01 20:53:38.826 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:54:07.912 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-01 20:54:07.913 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:54:10.327 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-01 20:54:10.327 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-01 20:56:04.236 [info] > git clone https://github.com/vcastw/recycl.git /home/davidlevy/projects/test/recycl --progress [35543ms]
+2024-05-01 20:56:04.236 [info] Cloning into '/home/davidlevy/projects/test/recycl'...
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+remote: Enumerating objects: 12, done.        
+remote: Counting objects:   8% (1/12)        remote: Counting objects:  16% (2/12)        remote: Counting objects:  25% (3/12)        remote: Counting objects:  33% (4/12)        remote: Counting objects:  41% (5/12)        remote: Counting objects:  50% (6/12)        remote: Counting objects:  58% (7/12)        remote: Counting objects:  66% (8/12)        remote: Counting objects:  75% (9/12)        remote: Counting objects:  83% (10/12)        remote: Counting objects:  91% (11/12)        remote: Counting objects: 100% (12/12)        remote: Counting objects: 100% (12/12), done.        
+remote: Compressing objects:  12% (1/8)        remote: Compressing objects:  25% (2/8)        remote: Compressing objects:  37% (3/8)        remote: Compressing objects:  50% (4/8)        remote: Compressing objects:  62% (5/8)        remote: Compressing objects:  75% (6/8)        remote: Compressing objects:  87% (7/8)        remote: Compressing objects: 100% (8/8)        remote: Compressing objects: 100% (8/8), done.        
+remote: Total 12 (delta 0), reused 0 (delta 0), pack-reused 0        
+Receiving objects:   8% (1/12)Receiving objects:  16% (2/12)Receiving objects:  25% (3/12)Receiving objects:  33% (4/12)Receiving objects:  41% (5/12)Receiving objects:  50% (6/12)Receiving objects:  58% (7/12)Receiving objects:  66% (8/12)Receiving objects:  75% (9/12)Receiving objects:  83% (10/12)Receiving objects:  91% (11/12)Receiving objects: 100% (12/12)Receiving objects: 100% (12/12), 5.68 KiB | 5.68 MiB/s, done.
+2024-05-01 20:56:18.968 [info] Log level: Info
+2024-05-01 20:56:18.969 [info] Validating found git in: "git"
+2024-05-01 20:56:18.969 [info] Using git "2.45.0" from "git"
+2024-05-01 20:56:18.971 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-01 20:56:18.985 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-05-01 20:56:18.999 [info] Open repository: /home/davidlevy/projects/test/recycl
+2024-05-01 20:56:19.014 [info] > git config --get commit.template [3ms]
+2024-05-01 20:56:19.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-05-01 20:56:19.037 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/test/recycl/.git/refs/remotes/origin/main'
+2024-05-01 20:56:19.039 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-01 20:56:19.046 [info] > git status -z -uall [1ms]
+2024-05-01 20:56:19.073 [info] > git merge-base refs/heads/main refs/remotes/origin/main [19ms]
+2024-05-01 20:56:19.095 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [15ms]
+2024-05-01 20:56:19.099 [info] > git config --get commit.template [27ms]
+2024-05-01 20:56:19.107 [info] > git diff --name-status -z --diff-filter=ADMR 1190630384e3ca736c2b20c23860a4bf8b112c40...refs/remotes/origin/main [8ms]
+2024-05-01 20:56:19.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-05-01 20:56:19.115 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/test/recycl/.git/refs/remotes/origin/main'
+2024-05-01 20:56:19.116 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-05-01 20:56:19.123 [info] > git status -z -uall [0ms]
+2024-05-01 20:56:19.542 [info] > git check-ignore -v -z --stdin [6ms]
+2024-05-01 20:56:21.348 [info] > git show --textconv :main.dart [9ms]
+2024-05-01 20:56:21.352 [info] > git ls-files --stage -- /home/davidlevy/projects/test/recycl/main.dart [6ms]
+2024-05-01 20:56:21.359 [info] > git cat-file -s 4e4e6a29c66e301898fd5d992d86858a81bbdc8d [0ms]
+2024-05-01 20:56:24.268 [info] > git show --textconv :README.md [8ms]
+2024-05-01 20:56:24.271 [info] > git ls-files --stage -- /home/davidlevy/projects/test/recycl/README.md [4ms]
+2024-05-01 20:56:24.280 [info] > git cat-file -s 418ebb7a48a59d2071baa3b8fecaddb0b6248848 [1ms]
+2024-05-01 20:56:24.661 [info] > git show --textconv :main.dart [6ms]
+2024-05-01 20:56:24.662 [info] > git ls-files --stage -- /home/davidlevy/projects/test/recycl/main.dart [2ms]
+2024-05-01 20:56:24.667 [info] > git cat-file -s 4e4e6a29c66e301898fd5d992d86858a81bbdc8d [1ms]
+2024-05-01 20:56:29.549 [info] > git config --get commit.template [1ms]
+2024-05-01 20:56:29.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-01 20:56:29.560 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/test/recycl/.git/refs/remotes/origin/main'
+2024-05-01 20:56:29.562 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-01 20:56:29.569 [info] > git status -z -uall [3ms]

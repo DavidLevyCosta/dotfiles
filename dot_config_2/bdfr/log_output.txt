@@ -1,0 +1,117 @@
+[2025-04-10 14:53:05,700 - bdfr.connector - DEBUG] - Disabling the following modules: 
+[2025-04-10 14:53:05,700 - bdfr.connector - Level 9] - Created download filter
+[2025-04-10 14:53:05,700 - bdfr.connector - Level 9] - Created time filter
+[2025-04-10 14:53:05,701 - bdfr.connector - Level 9] - Created sort filter
+[2025-04-10 14:53:05,701 - bdfr.connector - Level 9] - Create file name formatter
+[2025-04-10 14:53:05,702 - bdfr.connector - DEBUG] - Using authenticated Reddit instance
+[2025-04-10 14:53:05,751 - bdfr.oauth2 - Level 9] - Loaded OAuth2 token for authoriser
+[2025-04-10 14:53:05,991 - bdfr.oauth2 - Level 9] - Written OAuth2 token from authoriser to /home/davidlevy/.config/bdfr/default_config.cfg
+[2025-04-10 14:53:06,264 - bdfr.connector - Level 9] - Resolved user to Cleber_Deivinson
+[2025-04-10 14:53:06,265 - bdfr.connector - Level 9] - Created site authenticator
+[2025-04-10 14:53:06,265 - bdfr.connector - Level 9] - Retrieved subreddits
+[2025-04-10 14:53:06,265 - bdfr.connector - Level 9] - Retrieved multireddits
+[2025-04-10 14:53:16,508 - bdfr.connector - DEBUG] - Retrieving saved posts of user Cleber_Deivinson
+[2025-04-10 14:53:16,508 - bdfr.connector - Level 9] - Retrieved user data
+[2025-04-10 14:53:16,508 - bdfr.connector - Level 9] - Retrieved submissions for given links
+[2025-04-10 14:53:27,151 - bdfr.downloader - DEBUG] - Attempting to download submission 1jviq66
+[2025-04-10 14:53:27,152 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/6kptx74myvte1.jpeg
+[2025-04-10 14:53:27,203 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jviq66.jpeg
+[2025-04-10 14:53:27,203 - bdfr.downloader - DEBUG] - Hash added to master list: bee44078e72a546ffb7017e20a31fddd
+[2025-04-10 14:53:27,203 - bdfr.downloader - INFO] - Downloaded submission 1jviq66 from traphentai
+[2025-04-10 14:53:27,203 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv95ib
+[2025-04-10 14:53:27,203 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/lq8aemkkztte1.jpeg
+[2025-04-10 14:53:27,240 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jv95ib.jpeg
+[2025-04-10 14:53:27,240 - bdfr.downloader - DEBUG] - Hash added to master list: e52f34434f573017d5bbbd81826072b0
+[2025-04-10 14:53:27,240 - bdfr.downloader - INFO] - Downloaded submission 1jv95ib from traphentai
+[2025-04-10 14:53:27,240 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv949h
+[2025-04-10 14:53:27,240 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/ryf9s06bztte1.jpeg
+[2025-04-10 14:53:27,272 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jv949h.jpeg
+[2025-04-10 14:53:27,272 - bdfr.downloader - DEBUG] - Hash added to master list: ed3cfe450d032baa516d1626e0cbb884
+[2025-04-10 14:53:27,272 - bdfr.downloader - INFO] - Downloaded submission 1jv949h from traphentai
+[2025-04-10 14:53:27,272 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv8j1d
+[2025-04-10 14:53:27,272 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/plu6jakzutte1.jpeg
+[2025-04-10 14:53:27,428 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jv8j1d.jpeg
+[2025-04-10 14:53:27,428 - bdfr.downloader - DEBUG] - Hash added to master list: c7d97ca98be88b110a909a025d374de4
+[2025-04-10 14:53:27,428 - bdfr.downloader - INFO] - Downloaded submission 1jv8j1d from traphentai
+[2025-04-10 14:53:27,428 - bdfr.downloader - DEBUG] - Attempting to download submission 1juyhzs
+[2025-04-10 14:53:27,429 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/bn4pw81rxqte1.jpeg
+[2025-04-10 14:53:27,469 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1juyhzs.jpeg
+[2025-04-10 14:53:27,469 - bdfr.downloader - DEBUG] - Hash added to master list: 4dd5456225d4a9cf71502d1b9f2b47d3
+[2025-04-10 14:53:27,469 - bdfr.downloader - INFO] - Downloaded submission 1juyhzs from traphentai
+[2025-04-10 14:53:27,469 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvejcj
+[2025-04-10 14:53:27,470 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/50k91idi2vte1.png
+[2025-04-10 14:53:27,698 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/DragonBallNSFW/1jvejcj.png
+[2025-04-10 14:53:27,698 - bdfr.downloader - DEBUG] - Hash added to master list: 892bbf5032d4e760a4922273c8f57059
+[2025-04-10 14:53:27,698 - bdfr.downloader - INFO] - Downloaded submission 1jvejcj from DragonBallNSFW
+[2025-04-10 14:53:27,699 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv0rey
+[2025-04-10 14:53:27,699 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/chuw7u1crrte1.png
+[2025-04-10 14:53:27,766 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jv0rey.png
+[2025-04-10 14:53:27,767 - bdfr.downloader - DEBUG] - Hash added to master list: f79bbe42ab21c174c1946f51f70387c1
+[2025-04-10 14:53:27,767 - bdfr.downloader - INFO] - Downloaded submission 1jv0rey from traphentai
+[2025-04-10 14:53:27,767 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvgb98
+[2025-04-10 14:53:27,767 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/arlswe9tfvte1.jpeg
+[2025-04-10 14:53:27,802 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jvgb98.jpeg
+[2025-04-10 14:53:27,802 - bdfr.downloader - DEBUG] - Hash added to master list: 76d70409b638ad57e541c8ff76fa2c72
+[2025-04-10 14:53:27,802 - bdfr.downloader - INFO] - Downloaded submission 1jvgb98 from traphentai
+[2025-04-10 14:53:27,802 - bdfr.downloader - DEBUG] - Attempting to download submission 1jviu73
+[2025-04-10 14:53:27,802 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/ara3ifwizvte1.jpeg
+[2025-04-10 14:53:27,849 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jviu73.jpeg
+[2025-04-10 14:53:27,849 - bdfr.downloader - DEBUG] - Hash added to master list: 59c69dffab9d4b9454abeec13a352fc6
+[2025-04-10 14:53:27,849 - bdfr.downloader - INFO] - Downloaded submission 1jviu73 from traphentai
+[2025-04-10 14:53:27,849 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvijdz
+[2025-04-10 14:53:27,850 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/7uimd7d2xvte1.png
+[2025-04-10 14:53:27,912 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/hentai/1jvijdz.png
+[2025-04-10 14:53:27,913 - bdfr.downloader - DEBUG] - Hash added to master list: ce771fbea2881ebebd35187e803bbfed
+[2025-04-10 14:53:27,913 - bdfr.downloader - INFO] - Downloaded submission 1jvijdz from hentai
+[2025-04-10 14:53:27,913 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv5602
+[2025-04-10 14:53:27,914 - bdfr.downloader - DEBUG] - Using Gallery with url https://www.reddit.com/gallery/1jv5602
+[2025-04-10 14:53:27,967 - bdfr.file_name_formatter - Level 9] - Formatting filename with index 1
+[2025-04-10 14:53:27,967 - bdfr.file_name_formatter - Level 9] - Formatting filename with index 2
+[2025-04-10 14:53:28,010 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/yiff/1jv5602_1.jpg
+[2025-04-10 14:53:28,010 - bdfr.downloader - DEBUG] - Hash added to master list: 2a2f0763991d12cc76403d7a3c2c0aed
+[2025-04-10 14:53:28,050 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/yiff/1jv5602_2.jpg
+[2025-04-10 14:53:28,050 - bdfr.downloader - DEBUG] - Hash added to master list: 6248fa92954a098e2a4fe040ea0e54c5
+[2025-04-10 14:53:28,050 - bdfr.downloader - INFO] - Downloaded submission 1jv5602 from yiff
+[2025-04-10 14:53:28,050 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvbh1v
+[2025-04-10 14:53:28,050 - bdfr.downloader - DEBUG] - Using Redgifs with url https://www.redgifs.com/watch/utterincredibleheifer
+[2025-04-10 14:53:31,263 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/trapsarentgay/1jvbh1v.mp4
+[2025-04-10 14:53:31,263 - bdfr.downloader - DEBUG] - Hash added to master list: d554b571ae777cc76411175259bda2aa
+[2025-04-10 14:53:31,263 - bdfr.downloader - INFO] - Downloaded submission 1jvbh1v from trapsarentgay
+[2025-04-10 14:53:31,263 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvc3yg
+[2025-04-10 14:53:31,263 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/j7sq5ruzkute1.jpeg
+[2025-04-10 14:53:31,310 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/ShemalesParadise/1jvc3yg.jpeg
+[2025-04-10 14:53:31,310 - bdfr.downloader - DEBUG] - Hash added to master list: d88d219c1786436e4cae86a244e8e0e3
+[2025-04-10 14:53:31,310 - bdfr.downloader - INFO] - Downloaded submission 1jvc3yg from ShemalesParadise
+[2025-04-10 14:53:31,310 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv4x45
+[2025-04-10 14:53:31,310 - bdfr.downloader - DEBUG] - Using Gallery with url https://www.reddit.com/gallery/1jv4x45
+[2025-04-10 14:53:31,611 - bdfr.file_name_formatter - Level 9] - Formatting filename with index 1
+[2025-04-10 14:53:31,612 - bdfr.file_name_formatter - Level 9] - Formatting filename with index 2
+[2025-04-10 14:53:31,612 - bdfr.file_name_formatter - Level 9] - Formatting filename with index 3
+[2025-04-10 14:53:31,706 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/trapsarentgay/1jv4x45_1.jpg
+[2025-04-10 14:53:31,706 - bdfr.downloader - DEBUG] - Hash added to master list: c5d7744ca920625a4e87edbb9f8e986d
+[2025-04-10 14:53:31,796 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/trapsarentgay/1jv4x45_2.jpg
+[2025-04-10 14:53:31,797 - bdfr.downloader - DEBUG] - Hash added to master list: ff46e20096cb9cf368560fe12ff045fd
+[2025-04-10 14:53:31,883 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/trapsarentgay/1jv4x45_3.jpg
+[2025-04-10 14:53:31,883 - bdfr.downloader - DEBUG] - Hash added to master list: a18609e4c67ab92233df189d8197f247
+[2025-04-10 14:53:31,883 - bdfr.downloader - INFO] - Downloaded submission 1jv4x45 from trapsarentgay
+[2025-04-10 14:53:31,883 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvhzoe
+[2025-04-10 14:53:31,884 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/twauwykpsvte1.png
+[2025-04-10 14:53:31,968 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/KomiLewd/1jvhzoe.png
+[2025-04-10 14:53:31,968 - bdfr.downloader - DEBUG] - Hash added to master list: 425acac16e98e4efc1830ce8fd11e4ec
+[2025-04-10 14:53:31,968 - bdfr.downloader - INFO] - Downloaded submission 1jvhzoe from KomiLewd
+[2025-04-10 14:53:31,968 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvb6db
+[2025-04-10 14:53:31,968 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/d326vpubeute1.jpeg
+[2025-04-10 14:53:32,004 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/traphentai/1jvb6db.jpeg
+[2025-04-10 14:53:32,004 - bdfr.downloader - DEBUG] - Hash added to master list: bb4ef305816fb14731de12080dbbc847
+[2025-04-10 14:53:32,004 - bdfr.downloader - INFO] - Downloaded submission 1jvb6db from traphentai
+[2025-04-10 14:53:32,004 - bdfr.downloader - DEBUG] - Attempting to download submission 1jvanzx
+[2025-04-10 14:53:32,004 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/p9ll3erlaute1.gif
+[2025-04-10 14:53:32,733 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/rule34/1jvanzx.gif
+[2025-04-10 14:53:32,733 - bdfr.downloader - DEBUG] - Hash added to master list: ef6900d0b753824b64c6f4265c22b6f4
+[2025-04-10 14:53:32,733 - bdfr.downloader - INFO] - Downloaded submission 1jvanzx from rule34
+[2025-04-10 14:53:32,734 - bdfr.downloader - DEBUG] - Attempting to download submission 1jv4nzw
+[2025-04-10 14:53:32,735 - bdfr.downloader - DEBUG] - Using Direct with url https://i.redd.it/dqzln9j40tte1.png
+[2025-04-10 14:53:32,810 - bdfr.downloader - DEBUG] - Written file to /home/davidlevy/Downloads/something/hentai/1jv4nzw.png
+[2025-04-10 14:53:32,810 - bdfr.downloader - DEBUG] - Hash added to master list: de6293d89577258f9bb210ea6d6b70ec
+[2025-04-10 14:53:32,810 - bdfr.downloader - INFO] - Downloaded submission 1jv4nzw from hentai
+[2025-04-10 14:53:32,810 - root - INFO] - Program complete

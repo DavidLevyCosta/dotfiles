@@ -1,0 +1,26 @@
+2024-05-18 17:02:44.315 [info] Log level: Info
+2024-05-18 17:02:44.316 [info] Validating found git in: "git"
+2024-05-18 17:02:44.316 [info] Using git "2.45.1" from "git"
+2024-05-18 17:02:44.316 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-18 17:02:44.316 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-05-18 17:02:44.316 [info] Open repository: /home/davidlevy/projects/faculdade/recycle-react
+2024-05-18 17:02:44.398 [info] > git rev-parse --show-toplevel [26ms]
+2024-05-18 17:02:44.398 [info] > git config --get commit.template [48ms]
+2024-05-18 17:02:44.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-05-18 17:02:44.479 [info] > git rev-parse --show-toplevel [39ms]
+2024-05-18 17:02:44.493 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/faculdade/recycle-react/.git/refs/remotes/origin/main'
+2024-05-18 17:02:44.526 [info] > git rev-parse refs/remotes/origin/main [35ms]
+2024-05-18 17:02:44.545 [info] > git rev-parse --show-toplevel [20ms]
+2024-05-18 17:02:44.581 [info] > git status -z -uall [37ms]
+2024-05-18 17:02:44.660 [info] > git merge-base refs/heads/main refs/remotes/origin/main [47ms]
+2024-05-18 17:02:44.677 [info] > git rev-parse --show-toplevel [96ms]
+2024-05-18 17:02:44.685 [info] > git config --get commit.template [25ms]
+2024-05-18 17:02:44.793 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [110ms]
+2024-05-18 17:02:44.869 [info] > git diff --name-status -z --diff-filter=ADMR 9fa9ea73991174a0175b98eaf708bdb625d768b6...refs/remotes/origin/main [61ms]
+2024-05-18 17:02:44.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-05-18 17:02:44.944 [warning] ENOENT: no such file or directory, open '/home/davidlevy/projects/faculdade/recycle-react/.git/refs/remotes/origin/main'
+2024-05-18 17:02:44.959 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2024-05-18 17:02:44.993 [info] > git status -z -uall [18ms]
+2024-05-18 17:02:45.214 [info] > git check-ignore -v -z --stdin [6ms]
+2024-05-18 17:02:45.408 [info] > git show --textconv :src/api/UsersService.js [21ms]
+2024-05-18 17:02:45.423 [info] > git ls-files --stage -- /home/davidlevy/projects/faculdade/recycle-react/src/api/UsersService.js [15ms]

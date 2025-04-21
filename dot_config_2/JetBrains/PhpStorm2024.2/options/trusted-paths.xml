@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Downloads/prova" value="true" />
+        <entry key="$USER_HOME$/PhpstormProjects/api" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/react" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/projects/React Spring/recycl" value="true" />
+        <entry key="$USER_HOME$/projects/faculdade/recycle-react" value="true" />
+        <entry key="/opt/lampp/htdocs/api" value="true" />
+        <entry key="/opt/lampp/htdocs/prova" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

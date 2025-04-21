@@ -1,0 +1,19 @@
+$HOME/.config/spicetify/Themes/Dribbblish/Wall-Dcol.ini|${ScrDir}/wallbashspotify.sh
+
+[Wallbash]
+text               = <wallbash_4xa9> ; Text
+subtext            = <wallbash_4xa8> ; Subtext1
+sidebar-text       = <wallbash_4xa9> ; Text
+main               = <wallbash_pry1> ; Base
+sidebar            = <wallbash_pry1> ; Mantle
+player             = <wallbash_pry1> ; Base
+card               = <wallbash_pry1> ; Base
+shadow             = <wallbash_1xa1> ; Mantle
+selected-row       = <wallbash_2xa2> ; Overlay2
+button             = <wallbash_3xa8> ; Overlay1
+button-active      = <wallbash_3xa6> ; Overlay2
+button-disabled    = <wallbash_3xa7> ; Overlay0
+tab-active         = <wallbash_pry2> ; Surface0
+notification       = <wallbash_pry2> ; Surface0
+notification-error = <wallbash_pry3> ; Red
+misc               = <wallbash_2xa2> ; Surface1

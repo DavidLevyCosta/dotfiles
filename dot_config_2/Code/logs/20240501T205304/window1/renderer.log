@@ -1,0 +1,11 @@
+2024-05-01 20:53:06.017 [info] Started local extension host with pid 34752.
+2024-05-01 20:53:06.330 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-05-01 20:53:10.935 [info] [perf] Render performance baseline is 154ms
+2024-05-01 20:55:28.732 [error] [Extension Host] (node:34752) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-05-01 20:55:29.196 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at b.h (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1693:21270)
+    at b.j (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1693:22006)
+    at u.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1693:21027)
+2024-05-01 20:56:18.286 [info] Started local extension host with pid 52024.
+2024-05-01 20:56:21.741 [info] [perf] Render performance baseline is 220ms

@@ -1,0 +1,302 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="recycl" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="29izfcub7isgn" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="18" selection-start-line="18" selection-end-line="50" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/RecyclApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/controller/LoginController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/login/Login.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/login/LoginRepository.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 12,
+      "lastUsed": 1715962301544
+    },
+    "XML": {
+      "usageCount": 3,
+      "lastUsed": 1715962300810
+    },
+    "Properties": {
+      "usageCount": 3,
+      "lastUsed": 1715962301644
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/application/recycl/RecyclController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/application/recycl/controller/RecyclController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/application/recycl/login/LoginRepository.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/com/application/recycl/login/Login.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/application/recycl/controller/LoginController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="12" lastUsage="1715962301544" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="3" lastUsage="1715962301644" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1715962300811" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="recycl" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="recycl" type="20da4fc8:ProjectNode" />
+          <item name="Lifecycle" type="d32bdb1e:LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application/recycl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application/recycl/login}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.152897" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Layout Inspector" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24777448" />
+      <window_info anchor="bottom" id="Logcat" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="bottom" id="App Inspection" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.17328325" />
+      <window_info anchor="right" id="Device Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="6" />
+      <window_info anchor="right" id="Flutter Deep Links" order="7" />
+      <window_info anchor="right" id="Running Devices" order="8" side_tool="true" />
+      <unified_weights bottom="0.24777448" left="0.152897" right="0.17328325" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="456" width="640" height="202" key="#Assign_Data_Sources" timestamp="1715961664089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="456" width="640" height="202" key="#Assign_Data_Sources/0.0.1920.1080@0.0.1920.1080" timestamp="1715961664089" />
+    <state x="766" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1715888135071">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="766" y="264" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1715888135071" />
+    <state x="778" y="421" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1715962083862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="778" y="421" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1715962083862" />
+    <state x="748" y="330" key="FileChooserDialogImpl" timestamp="1715962266664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="330" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1715962266664" />
+    <state x="464" y="192" key="SettingsEditor" timestamp="1715882214325">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="192" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1715882214325" />
+    <state x="752" y="347" key="chooseDestDirectoryDialog" timestamp="1715882349219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="347" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1715882349219" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/RecyclApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/login/LoginRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="18" selection-start-line="18" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

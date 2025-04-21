@@ -1,0 +1,25 @@
+{
+  "id": "87742366283c30c00d6332e76d3201e05ed5e9e5",
+  "name": "Initial Snapshot",
+  "state": [
+    {
+      "key": "wrk_97f15bf7cbe346de9e116046cdcdb747",
+      "name": "my-spec.yaml",
+      "blob": "618e6326944bbbf01ab2e1d58196ee2421bee29c"
+    },
+    {
+      "key": "env_050557455e460d0914cd4a4cb47745debea95600",
+      "name": "Base Environment",
+      "blob": "d096fda27171be2ba87f4623230c09ca25f46501"
+    },
+    {
+      "key": "spc_71c7956a831b4546854e1ee7557b72d0",
+      "name": "",
+      "blob": "432b55dc50d27e100165521edef5d510d8560d02"
+    }
+  ],
+  "author": "",
+  "parent": "0000000000000000000000000000000000000000",
+  "created": "2024-05-17T15:06:23.199Z",
+  "description": ""
+}

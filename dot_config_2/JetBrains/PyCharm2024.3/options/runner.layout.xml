@@ -1,0 +1,11 @@
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="JupyterServerRunner">
+      <ViewImpl>
+        <option name="ID" value="JupyterServerRunner" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <TabImpl />
+    </runner>
+  </component>
+</application>

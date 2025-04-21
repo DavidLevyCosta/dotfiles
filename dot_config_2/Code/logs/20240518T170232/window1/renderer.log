@@ -1,0 +1,4 @@
+2024-05-18 17:02:37.428 [info] Started local extension host with pid 91374.
+2024-05-18 17:02:52.706 [info] [perf] Render performance baseline is 317ms
+2024-05-18 17:02:52.914 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2024-05-18 17:02:56.293 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/davidlevy/projects/faculdade/recycle-react/src/index.js 

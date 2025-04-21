@@ -1,0 +1,16 @@
+[Added Associations]
+image/gif=sxiv-3.desktop;
+image/jpeg=sxiv-2.desktop;
+
+[Default Applications]
+image/gif=sxiv-3.desktop;
+image/jpeg=sxiv-2.desktop;
+inode/directory=org.kde.dolphin.desktop
+text/html=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/discord-831593107883032657=discord-831593107883032657.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/unknown=firefox.desktop

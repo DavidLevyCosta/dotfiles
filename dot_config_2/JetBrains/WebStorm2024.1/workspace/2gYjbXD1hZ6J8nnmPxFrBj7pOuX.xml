@@ -1,0 +1,140 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="recycl" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="ocq1ek68zggc">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/RecyclApplication.java">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1715881673297
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1715881673297" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recycl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davidlevy/projects/React Spring/recycl/src/main/java/com/application/recycl}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33026317" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.33026317" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="207" key="SettingsEditor" timestamp="1715881661075">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1715881661075" />
+    <state x="623" y="265" width="675" height="684" key="search.everywhere.popup" timestamp="1715881652982">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="265" width="675" height="684" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1715881652982" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/application/recycl/RecyclApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

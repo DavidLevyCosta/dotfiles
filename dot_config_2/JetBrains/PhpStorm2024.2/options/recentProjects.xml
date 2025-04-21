@@ -1,0 +1,54 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/opt/lampp/htdocs/prova">
+          <value>
+            <RecentProjectMetaInfo frameTitle="prova – cadastro.php" projectWorkspaceId="2mGufCcHMv0JfFuXwGlQReVjYl9">
+              <option name="activationTimestamp" value="1729803474775" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-242.21829.154" />
+              <option name="buildTimestamp" value="1724928540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="10" y="45" width="1900" height="1025" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1726772541130" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="api – index.php" projectWorkspaceId="2nts08Da1Q1Djh8Y5uHtQ5X51rN">
+              <option name="activationTimestamp" value="1729803897892" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-242.21829.154" />
+              <option name="buildTimestamp" value="1724928540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="10" y="45" width="945" height="1025" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1729803481211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/opt/lampp/htdocs/api">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2nts08Da1Q1Djh8Y5uHtQ5X51rN">
+              <option name="activationTimestamp" value="1729805065171" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-242.21829.154" />
+              <option name="buildTimestamp" value="1724928540000" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1729803898211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="/opt/lampp/htdocs/api" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>

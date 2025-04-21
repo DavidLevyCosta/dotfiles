@@ -1,0 +1,542 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="prova" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="conta_corrente@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="conta_corrente@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="conta_corrente: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="conta_corrente@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="conta_corrente: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 1 table (host: schema conta_corrente)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="conta_corrente@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="conta_corrente: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 1 table (host: schema conta_corrente)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="lancamentos: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="conta_corrente@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="conta_corrente: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 1 table (host: schema conta_corrente)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="lancamentos: table" type="dbc44a63:MariaImplModel$Table" />
+        <item name="Family of 6 column (host: table lancamentos)" type="d958bea4:BaseModel$BasePositioningNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="387krzd858z82" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/cadastro.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"cadastro.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="748">
+              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/config/database.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="594">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"database.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".htaccess","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,51,10,22,102,105,108,101,84,121,112,101,115,47,104,116,97,99,99,101,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-83,-34,-55,-106,-4,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/views/extrato.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="352">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"extrato.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/controllers/ContaController.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ContaController.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/models/Lancamento.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Lancamento.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/views/movimentacao.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="836">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"movimentacao.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,105,99,111,110,115,47,112,104,112,45,105,99,111,110,46,115,118,103,18,19,105,99,111,110,115,47,101,120,112,117,105,47,112,104,112,46,115,118,103,26,17,99,111,109,46,106,101,116,98,114,97,105,110,115,46,112,104,112,40,-67,-101,-54,-91,6,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/models/Cliente.php">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="506">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Cliente.php","foregroundColor":-7568508,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Database Element": {
+      "usageCount": 3,
+      "lastUsed": 1726779672108
+    },
+    "PHP": {
+      "usageCount": 24,
+      "lastUsed": 1729803427676
+    },
+    "HTML": {
+      "usageCount": 3,
+      "lastUsed": 1726774315045
+    },
+    "SQL": {
+      "usageCount": 3,
+      "lastUsed": 1726776941867
+    },
+    "htaccess": {
+      "usageCount": 2,
+      "lastUsed": 1729803427221
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/database.php" />
+      <option value="$PROJECT_DIR$/cliente.php" />
+      <option value="$PROJECT_DIR$/action.php" />
+      <option value="$PROJECT_DIR$/controller.php" />
+      <option value="$PROJECT_DIR$/send.php" />
+      <option value="$PROJECT_DIR$/models/Lancamento.php" />
+      <option value="$PROJECT_DIR$/models/cliente.php" />
+      <option value="$PROJECT_DIR$/controllers/ContaController.php" />
+      <option value="$PROJECT_DIR$/services/ContaService.php" />
+      <option value="$PROJECT_DIR$/views/index.html" />
+      <option value="$PROJECT_DIR$/views/cadastro.html" />
+      <option value="$PROJECT_DIR$/views/index.php" />
+      <option value="$PROJECT_DIR$/views/extrato.php" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/05a610c2-5803-4442-8f95-c44f2ee21a41/console.sql" />
+      <option value="$PROJECT_DIR$/config/database.php" />
+      <option value="$PROJECT_DIR$/.htaccess" />
+      <option value="$PROJECT_DIR$/index.php" />
+      <option value="$PROJECT_DIR$/views/movimentacao.php" />
+      <option value="$PROJECT_DIR$/views/cadastro.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ApacheConfig">
+      <summary usageCount="2" lastUsage="1729803427221" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="3" lastUsage="1726774315045" />
+    </language>
+    <language id="PHP">
+      <summary usageCount="24" lastUsage="1729803427676" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1726776941867" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///opt/lampp/htdocs/prova}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///opt/lampp/htdocs/prova}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///opt/lampp/htdocs/prova/models}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///opt/lampp/htdocs/prova}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///opt/lampp/htdocs/prova/views}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="prova" />
+            <item name="prova" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="prova" />
+              <item name="dir{file:///opt/lampp/htdocs/prova}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                <item name="dir{file:///opt/lampp/htdocs/prova/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/controllers" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="controllers" />
+                <item name="dir{file:///opt/lampp/htdocs/prova/controllers}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/models" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="models" />
+                <item name="dir{file:///opt/lampp/htdocs/prova/models}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/models/Cliente.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Cliente.php" />
+                  <item name="Cliente.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/models/Lancamento.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Lancamento.php" />
+                  <item name="Lancamento.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/views" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="views" />
+                <item name="dir{file:///opt/lampp/htdocs/prova/views}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/views/cadastro.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="cadastro.php" />
+                  <item name="cadastro.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/views/extrato.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="extrato.php" />
+                  <item name="extrato.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/views/movimentacao.php" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="movimentacao.php" />
+                  <item name="movimentacao.php" type="88303cf5:PhpFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.htaccess" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/htaccess.svg" iconPlugin="com.intellij" isLeaf="true" text=".htaccess" />
+                <item name=".htaccess" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.php" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/php.svg" iconPlugin="com.jetbrains.php" isLeaf="true" text="index.php" />
+                <item name="index.php" type="88303cf5:PhpFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="conta_corrente@localhost: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="conta_corrente@localhost: root" type="b28e1758:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="f13cf2da:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15205000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114999995" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.05609756" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.1907317" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.1907317" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.1907317" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.25026315" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.1907317" left="0.114999995" right="0.25026315" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Services</value>
+      <value>Find</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="405" key="#SQL_Dialects" timestamp="1726772890945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="332" y="405" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1726772890945" />
+    <state x="560" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1726717986226">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1726717986226" />
+    <state width="1272" height="152" key="GridCell.Tab.0.bottom" timestamp="1726777040836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1272" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1726777040836" />
+    <state width="1272" height="152" key="GridCell.Tab.0.center" timestamp="1726777040836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1272" height="152" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1726777040836" />
+    <state width="1272" height="152" key="GridCell.Tab.0.left" timestamp="1726777040834">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1272" height="152" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1726777040834" />
+    <state width="1272" height="152" key="GridCell.Tab.0.right" timestamp="1726777040836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1272" height="152" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1726777040836" />
+    <state x="759" y="297" key="NewPhpClassDialog" timestamp="1726774474135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="759" y="297" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1726774474135" />
+    <state x="779" y="498" key="NewPhpFileDialog" timestamp="1726774769761">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="498" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1726774769761" />
+    <state x="469" y="207" key="SettingsEditor" timestamp="1726719615388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1726719615388" />
+    <state x="623" y="265" width="701" height="701" key="search.everywhere.popup" timestamp="1726776289556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="265" width="701" height="701" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1726776289556" />
+    <state x="685" y="473" width="540" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1726715819217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="473" width="540" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1726715819217" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/services/ContaService.php" />
+    <entry file="file://$PROJECT_DIR$/send.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/05a610c2-5803-4442-8f95-c44f2ee21a41/console.sql" />
+    <entry file="das://05a610c2-5803-4442-8f95-c44f2ee21a41/schema/conta_corrente/table/lancamentos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1726779671588" presentationMode="TABLE" projectRestartId="b0a61871-3b84-4ea5-a31a-35b2fcf90355" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/extrato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/movimentacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ContaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Lancamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

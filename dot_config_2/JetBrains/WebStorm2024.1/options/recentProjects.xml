@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/React Spring/recycl">
+          <value>
+            <RecentProjectMetaInfo frameTitle="recycl" projectWorkspaceId="2gYkeRsXlqBNN9SNRdAryB9MtjF">
+              <option name="activationTimestamp" value="1715992796616" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="17" y="52" width="1886" height="1011" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1715881476660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/react">
+          <value>
+            <RecentProjectMetaInfo frameTitle="react – App.tsx" projectWorkspaceId="2gVsjbC4R72sFBdQzMmOIlPCiC6">
+              <option name="activationTimestamp" value="1715993565006" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="17" y="52" width="1886" height="1011" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1715993530073" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/faculdade/recycle-react">
+          <value>
+            <RecentProjectMetaInfo frameTitle="recycle-react – ~/Downloads/prova/view.php" projectWorkspaceId="2gcNFCFUUwjegDzWhfCkcxYQtRf">
+              <option name="activationTimestamp" value="1726682338504" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="17" y="52" width="1886" height="1011" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1715993566162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled" projectWorkspaceId="2mFpmjV20bp2PTaGobysH6KRoyP">
+              <option name="activationTimestamp" value="1726682359622" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="17" y="52" width="1886" height="1011" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1726682339332" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/prova">
+          <value>
+            <RecentProjectMetaInfo frameTitle="prova – view.php" projectWorkspaceId="2mFppHkhhwh1tO9cPHqM8LR1eGS">
+              <option name="activationTimestamp" value="1744141493948" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="10" y="45" width="1900" height="1025" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1726682359896" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled1 – app.routes.ts" opened="true" projectWorkspaceId="2vSbbZtJ1pMJyNSRvJcSdo5yQqP">
+              <option name="activationTimestamp" value="1744310026203" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.15989.105" />
+              <option name="buildTimestamp" value="1713875520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="17" y="52" width="1886" height="1011" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1744141494615" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/WebstormProjects/untitled1" />
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>

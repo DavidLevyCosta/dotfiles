@@ -1,0 +1,70 @@
+2024-05-17 21:56:46.255 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2024-05-17 21:56:46.269 [info] Installing extension: dsznajder.es7-react-js-snippets
+2024-05-17 21:56:46.939 [info] Extension signature verification result for dsznajder.es7-react-js-snippets: UnknownError. Duration: 20ms.
+2024-05-17 21:56:47.262 [info] Extracted extension to file:///home/davidlevy/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2024-05-17 21:56:47.268 [info] Renamed to /home/davidlevy/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2024-05-17 21:56:47.270 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2024-05-17 21:56:47.284 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2024-05-17 21:56:47.363 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-17 21:56:56.970 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-05-17 21:56:56.987 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-05-17 21:56:58.212 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: UnknownError. Duration: 7ms.
+2024-05-17 21:56:58.511 [info] Extracted extension to file:///home/davidlevy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.5.20240505: ms-vscode.vscode-typescript-next
+2024-05-17 21:56:58.514 [info] Renamed to /home/davidlevy/.vscode/extensions/ms-vscode.vscode-typescript-next-5.5.20240505
+2024-05-17 21:56:58.516 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2024-05-17 21:56:58.528 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2024-05-17 21:56:58.598 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-17 22:00:11.986 [info] Getting Manifest... ecmel.vscode-html-css
+2024-05-17 22:00:11.999 [info] Installing extension: ecmel.vscode-html-css
+2024-05-17 22:00:12.625 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Duration: 8ms.
+2024-05-17 22:00:12.632 [info] Extracted extension to file:///home/davidlevy/.vscode/extensions/ecmel.vscode-html-css-2.0.9: ecmel.vscode-html-css
+2024-05-17 22:00:12.637 [info] Renamed to /home/davidlevy/.vscode/extensions/ecmel.vscode-html-css-2.0.9
+2024-05-17 22:00:12.644 [info] Extracting extension completed. ecmel.vscode-html-css
+2024-05-17 22:00:12.657 [info] Extension installed successfully: ecmel.vscode-html-css
+2024-05-17 22:00:12.730 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-17 22:00:34.162 [info] Getting Manifest... zignd.html-css-class-completion
+2024-05-17 22:00:34.179 [info] Installing extension: zignd.html-css-class-completion
+2024-05-17 22:00:34.739 [info] Extension signature verification result for zignd.html-css-class-completion: UnknownError. Duration: 6ms.
+2024-05-17 22:00:36.029 [info] Extracted extension to file:///home/davidlevy/.vscode/extensions/zignd.html-css-class-completion-1.20.0: zignd.html-css-class-completion
+2024-05-17 22:00:36.032 [info] Renamed to /home/davidlevy/.vscode/extensions/zignd.html-css-class-completion-1.20.0
+2024-05-17 22:00:36.037 [info] Extracting extension completed. zignd.html-css-class-completion
+2024-05-17 22:00:36.050 [info] Extension installed successfully: zignd.html-css-class-completion
+2024-05-17 22:00:36.132 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-17 22:00:43.309 [info] Getting Manifest... esbenp.prettier-vscode
+2024-05-17 22:00:43.316 [info] Installing extension: esbenp.prettier-vscode
+2024-05-17 22:00:43.886 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Duration: 7ms.
+2024-05-17 22:00:44.043 [info] Extracted extension to file:///home/davidlevy/.vscode/extensions/esbenp.prettier-vscode-10.4.0: esbenp.prettier-vscode
+2024-05-17 22:00:44.053 [info] Renamed to /home/davidlevy/.vscode/extensions/esbenp.prettier-vscode-10.4.0
+2024-05-17 22:00:44.059 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-05-17 22:00:44.077 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-05-17 22:00:44.157 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/davidlevy/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
